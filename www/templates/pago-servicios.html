@@ -1,0 +1,17 @@
+<ion-view title="Telefonía">
+  <ion-content>
+    <div class="list">
+      <ion-item ng-repeat="servicio in servicios" class="item-icon-right" href="#/app/pago-servicio/{{servicio.id}}">
+        <i class="icon ion-chevron-right balanced"></i>
+        <h2>{{servicio.name}}</h2>
+      </ion-item>
+    </div>
+  </ion-content>
+    <div class="bar bar-subfooter">
+    <div class="button-bar bar-positive bar-full">
+      <a class="button icon ion-star" nav-clear menu-close href="#/app/pagos">
+        Pague Favoritos
+      </a>
+    </div>
+  </div>
+</ion-view>

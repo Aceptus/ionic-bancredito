@@ -1,0 +1,47 @@
+<ion-view title="Bancrédito Móvil">
+  <ion-nav-title>
+    <img ng-src="img/bank-logo.svg" class="title-image">
+  </ion-nav-title>
+  <ion-content>
+    <form ng-submit="doClaveDinamica()">
+      <div class="list list-inset">
+      	<label class="item item-input item-select">
+    	    <div class="input-label">
+    	      Identificación
+    	    </div>
+    	    <select>
+    	      <option selected>Cédula Identidad</option>
+    	      <option>Cédula Jurídica</option>
+    	      <option>Extranjero</option>
+    	      <option>Grupo</option>
+    	    </select>
+    	  </label>
+        <label class="item item-input">
+          <span class="input-label">Usuario</span>
+          <input type="text" ng-model="loginData.username" placeholder="Formato: 00-0000-0000">
+        </label>
+        <label class="item item-input">
+          <span class="input-label">Contraseña</span>
+          <input type="password" ng-model="loginData.password" placeholder="Ingrese su contraseña">
+        </label>
+        <li class="item item-checkbox small-text">
+    	     <label class="checkbox checkbox-dark">
+    	       <input type="checkbox">
+    	     </label>
+    	     Recordarme
+    	  </li>
+        <label class="item">
+          <button class="button button-block button-energized icon-right ion-chevron-right" type="submit">Continúe</button>
+        </label>
+      </div>
+    </form>
+    <div class="row">
+      <div class="col col-50 col-offset-25">
+        <a class="button button-block button-positive button-small icon ion-social-usd" href="#/tipo-cambio"> Tipo de Cambio</a>
+      </div>
+    </div>
+  </ion-content>
+  <div class="bar bar-subfooter">
+    <p class="padding col text-center"><a href="#">Privacidad y Seguridad</a></p>
+  </div>
+</ion-view>

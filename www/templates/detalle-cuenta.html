@@ -1,0 +1,57 @@
+<ion-view title="Detalle de Cuenta">
+  <ion-content>
+    <div class="list list-inset">
+
+      <div class="item item-divider row">
+        <div class="col col-33">Cuenta</div>
+        <div class="col col-67">1009795624 <span class="item-note">Ahorro Dólares</span></div>
+      </div>
+      <div class="item row">
+        <div class="col col-33 small-text">C. Cliente</div>
+        <div class="col col-67 small-text">11600 2031 0569 4112</div>
+      </div>
+      <div class="item item-divider">
+        Detalle <span class="item-note">22 sep 2015 10:30:25 am</span>
+      </div>
+      <div class="item row small-text">
+        <div class="col"><h2>Total</h2></div>
+        <div class="col text-right"><h2>{{1683 | currency:"$ "}}</h2></div>
+      </div>
+      <div class="item row small-text">
+        <div class="col">Disponible</div>
+        <div class="col text-right">{{1683 | currency:"$ "}}</div>
+      </div>
+      <div class="item row small-text">
+        <div class="col">Consultado</div>
+        <div class="col text-right">{{0 | currency:"$ "}}</div>
+      </div>
+      <div class="item row small-text">
+        <div class="col">Reserva</div>
+        <div class="col text-right">{{0 | currency:"$ "}}</div>
+      </div>
+      <div class="item row small-text">
+        <div class="col">Pignorado</div>
+        <div class="col text-right">{{0 | currency:"$ "}}</div>
+      </div>
+      <div class="item row small-text">
+        <div class="col">Embargado</div>
+        <div class="col text-right">{{0 | currency:"$ "}}</div>
+      </div>
+    </div>
+    <a class="item item-icon-right item-borderless" href="#/app/movimientos/1234567890">
+      <li class="icon ion-chevron-right balanced"></li>
+      Movimientos último mes
+    </a>
+
+  </ion-content>
+  <div class="bar bar-subfooter">
+    <div class="button-bar bar-positive bar-full">
+      <a class="button icon ion-arrow-swap" href="#/app/transferencias">
+        Transfiera
+      </a>
+      <a class="button icon ion-cash" href="#/app/pagos">
+        Pague
+      </a>
+    </div>
+  </div>
+</ion-view>

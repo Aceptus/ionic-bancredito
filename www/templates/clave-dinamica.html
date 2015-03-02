@@ -1,0 +1,52 @@
+<ion-view title="Clave Dinámica">
+  <ion-content>
+    <form ng-submit="doLogin()">
+      <div class="list list-inset">
+      	<div class="item">
+
+				<div class="row">
+					<div class="col text-center"><h2>Ingrese su Clave Dinámica</h2></div>
+      	</div>
+
+      	<div class="row">
+      		<div class="col text-center">
+						<p>Registre las siguientes coordenadas</p>
+					</div>
+      	</div>
+
+      	<div class="row">
+      		<div class="col">
+		      	<label class="item item-input">
+		          <span class="input-label">E1</span>
+		          <input type="number" ng-model="loginData.cord1" >
+		        </label>
+        	</div>
+      		<div class="col">
+      			<label class="item item-input">
+		          <span class="input-label">J4</span>
+		          <input type="number" ng-model="loginData.cord2" >
+		        </label>
+      		</div>
+      		<div class="col">
+      			<label class="item item-input">
+		          <span class="input-label">A9</span>
+		          <input type="number" ng-model="loginData.cord3" >
+		        </label>
+      		</div>
+      	</div>
+      	</div>
+      	<div class="item">
+        <label class="col">
+          <button class="button button-block button-energized icon-right ion-chevron-right" type="submit">Ingrese</button>
+        </label>
+        </div>
+
+      </div>
+    </form>
+    Device UID:
+    {{uuid}}
+  </ion-content>
+  <div class="bar bar-subfooter">
+    <p class="padding col text-center"><a href="#">Privacidad y Seguridad</a></p>
+  </div>
+</ion-view>
