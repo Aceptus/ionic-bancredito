@@ -1,0 +1,29 @@
+<ion-view title="Consulta AyA">
+  <ion-content>
+    <div class="list list-inset">
+      <div class="item item-divider">
+        Indique el NIS
+      </div>
+
+      <label class="item item-input">
+        <span class="input-label">NIS AyA</span>
+        <input type="text" ng-model="servicio.nis" placeholder="No digite guiones ni espacios">
+      </label>
+
+      <label class="item item-input item-select item-stacked-label">
+        <div class="input-label">
+          Favorito
+        </div>
+        <select>
+          <option value="">(seleccione un recibo)</option>
+          <option value="1234567890">1234567890 - Carlos Pravia Jácamo</option>
+          <option value="0987654321">0987654321 - Theodore Hope</option>
+        </select>
+      </label>
+
+
+
+      <a class="button button-block button-energized icon-right ion-chevron-right" type="submit" href="#">Continúe</a>
+    </div>
+  </ion-content>
+</ion-view>

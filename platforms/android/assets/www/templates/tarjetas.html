@@ -1,0 +1,32 @@
+<ion-view title="Tarjetas">
+  <ion-content>
+    <div class="list">
+
+
+      <div class="item item-divider">
+        Tarjetas de Crédito
+      </div>
+      <ion-item ng-repeat="tarjeta in tarjetas" class="item-saldo item-icon-right" href="#/app/tarjeta/{{tarjeta.id}}">
+        <i class="icon ion-chevron-right balanced"></i>
+        <h3>**** **** **** {{tarjeta.id}} - <span class="positive">{{tarjeta.tipo}}</span></h3>
+<!--
+        <div ng-repeat="disponible in tarjeta.disponibles" class="row">
+          <div class="col-50 text-right small-text">
+            {{saldoMoneda(disponible.credito, disponible.moneda)}}
+          </div>
+        </div>
+-->
+      </ion-item>
+    </div>
+  </ion-content>
+  <div class="bar bar-subfooter">
+    <div class="button-bar bar-positive bar-full">
+      <a class="button icon ion-cash" href="#/app/pagos">
+        Pague su Tarjeta
+      </a>
+      <a class="button icon ion-cash" href="#/app/pagos">
+        Avance de Efectivo
+      </a>
+    </div>
+  </div>
+</ion-view>

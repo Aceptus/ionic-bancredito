@@ -1,0 +1,76 @@
+<ion-view title="Detalle de Tarjeta">
+  <ion-content class="has-subfooter">
+    <div class="list list-inset">
+      <div class="item item-divider">
+      **** **** **** 2209 - MASTERCARD
+      </div>
+<!--
+      <div class="item row">
+        <div class="col col-33 small-text">
+        Titular
+        </div>
+        <div class="col col-67 small-text">
+          Carlos Mauricio Pravia Jácamo
+        </div>
+      </div>
+    </div>
+
+    <div class="list list-inset">
+      <div class="item item-divider">
+      Detalle de Saldos <span class="item-note">Corte: 9 Ene 2015</span>
+      </div>
+-->
+      <div class="item row">
+          <div class="col small-text">Límite Crédito</div>
+          <div class="col text-right small-text">{{5107010 | currency:"¢"}}<br>{{9500 | currency}}</div>
+      </div>
+      <div class="item row">
+        <div class="col small-text">Saldo Actual</div>
+        <div class="col text-right small-text">{{3999.50 | currency:"¢"}}<br>{{200.99 | currency}}</div>
+      </div>
+      <div class="item row">
+        <div class="col small-text">Crédito Disponible</div>
+        <div class="col text-right small-text">{{5007204.52 | currency:"¢"}}<br>{{9312.94 | currency}}</div>
+      </div>
+      <div class="item row">
+        <div class="col small-text">Pago Mínimo</div>
+        <div class="col text-right small-text">{{400 | currency:"¢"}}<br>{{55 | currency}}</div>
+      </div>
+      <div class="item row">
+        <div class="col small-text">Pago Contado</div>
+        <div class="col text-right small-text">{{40000 | currency:"¢"}}<br>{{44 | currency}}</div>
+      </div>
+    </div>
+
+    <div class="list list-inset">
+      <div class="item item-divider">
+      Fechas de Pago <span class="item-note">Corte: 9 ene 2015</span>
+      </div>
+      <div class="item row">
+        <div class="col small-text">Pago de Contado</div>
+        <div class="col text-right small-text">24 ene 2015</div>
+      </div>
+      <div class="item row">
+        <div class="col small-text">Pago Mínimo</div>
+        <div class="col text-right  small-text">31 feb 2015</div>
+      </div>
+    </div>
+    <a class="item item-icon-right item-borderless" href="#">
+      <li class="icon ion-chevron-right balanced"></li>
+      Últimos movimientos
+    </a>
+
+  </ion-content>
+
+  <div class="bar bar-subfooter">
+    <div class="button-bar bar-positive bar-full">
+      <a class="button icon ion-cash">
+        Pague su Tarjeta
+      </a>
+      <a class="button icon ion-cash" href="#">
+        Avance de Efectivo
+      </a>
+    </div>
+  </div>
+
+</ion-view>

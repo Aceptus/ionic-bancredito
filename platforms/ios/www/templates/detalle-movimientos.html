@@ -1,0 +1,21 @@
+<ion-view title="Movimientos">
+  <ion-content>
+    <div class="list movimientos">
+        <div class="item item-divider row">
+            <div class="col col-33">Cuenta</div>
+            <div class="col col-67">1009795624<span class="item-note">Ahorro Dólares</span></div>
+        </div>
+    	<ion-item ng-repeat="movimiento in movimientos">
+    		<div class="row small-text">
+    			<div class="col">
+    			 <strong>{{movimiento.fecha}}</strong> - <span class="positive">M# {{movimiento.id}}</span>
+    			</div>
+    		</div>
+    		<div class="row">
+    			<div class="col col-50 smaller-text">{{movimiento.desc}}</div>
+    			<div class="col col-50 text-right {{movimiento.tipo === 'credito'?'assertive':'dark'}}">{{saldoMoneda(movimiento.saldo,movimiento.moneda,movimiento.tipo)}}</div>
+    		</div>
+    	</ion-item>
+    </div>
+  </ion-content>
+</ion-view>

@@ -1,0 +1,42 @@
+<ion-view title="Detalle del Monedero">
+  <ion-content>
+    <div class="list list-inset">
+
+      <div class="item item-divider">
+        Monedero 50688198987
+      </div>
+      <div class="item row small-text">
+        <div class="col"><h2>Saldo Disponible</h2></div>
+        <div class="col text-right"><h2>{{saldoMoneda(25000,'colones')}}</h2></div>
+      </div>
+      <div class="item row small-text">
+        <div class="col">Saldo Máximo</div>
+        <div class="col text-right">{{saldoMoneda(75000,'colones')}}</div>
+      </div>
+      <div class="item row small-text">
+        <div class="col">Total Retirado al día</div>
+        <div class="col text-right">{{saldoMoneda(5000,'colones')}}</div>
+      </div>
+      <div class="item row small-text">
+        <div class="col">Total Permitido de Retiro diario</div>
+        <div class="col text-right">{{saldoMoneda(15000,'colones')}}</div>
+      </div>
+    </div>
+
+    <a class="item item-icon-right item-borderless" href="#/app/movimientos/1234567890">
+      <li class="icon ion-chevron-right balanced"></li>
+      Movimientos último mes
+    </a>
+
+  </ion-content>
+  <div class="bar bar-subfooter">
+    <div class="button-bar bar-positive bar-full">
+      <a class="button icon ion-arrow-swap"></i>
+        Transfiera
+      </a>
+      <a class="button icon ion-cash"></i>
+        Pague
+      </a>
+    </div>
+  </div>
+</ion-view>

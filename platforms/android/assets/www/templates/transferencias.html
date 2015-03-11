@@ -1,0 +1,109 @@
+<ion-view title="Transferencias">
+  <ion-content>
+
+    <div class="list">
+      <!-- Seleccione el Origen -->
+      <label class="item item-input item-select">
+        <div class="input-label">
+          Origen
+        </div>
+        <select ng-model="origen" ng-options="origen.id + ' -' + origen.desc for origen in misCuentas">
+          <option value="">(seleccione cuenta origen)</option>
+        </select>
+      </label>
+      <div ng-if="origen" class="item row">
+        <div class="col small-text positive">&nbsp;&nbsp;Disponible</div>
+        <div class="col text-right small-text positive">{{saldoMoneda(origen.saldo,origen.moneda)}}</div>
+      </div>
+
+      <!-- Seleccione el Tipo de Destino -->
+      <label class="item item-input item-select">
+        <div class="input-label">
+          Destino
+        </div>
+        <select ng-model="tipoDestino" ng-options="tipo.label for tipo in tiposTransferencia">
+          <option value="">(seleccione el destino)</option>
+        </select>
+      </label>
+
+      <!-- Destino Cuenta BANCREDITO -->
+      <div ng-if="tipoDestino.value=='bancredito'">
+        <label class="item item-input item-select">
+          <div class="input-label">
+            Bancrédito
+          </div>
+          <select ng-model="transferencia.destino" ng-options="cuenta.id + ' - ' + cuenta.titular for cuenta in cuentas">
+            <option value="">(seleccione cuenta destino)</option>
+          </select>
+        </label>
+        <label class="item item-input">
+          <input type="number" placeholder="O digite otra cuenta Bancrédito">
+        </label>
+      </div>
+
+      <!-- Destino Cuenta SINPE -->
+      <div ng-if="tipoDestino.value=='sinpe'">
+        <label class="item item-input item-select">
+          <div class="input-label">
+            SINPE
+          </div>
+          <select ng-model="transferencia.destino" ng-options="cuenta.id + ' - ' + cuenta.emisor for cuenta in cuentasSinpe">
+            <option value="">(seleccione cuenta destino)</option>
+          </select>
+        </label>
+        <label class="item item-input">
+          <input type="number" placeholder="O digite otra cuenta SINPE">
+        </label>
+        <label class="item item-input">
+          <input type="number" placeholder="Digite cédula asociada">
+        </label>
+      </div>
+
+      <!-- Destino MONEDERO -->
+      <div ng-if="tipoDestino.value=='monedero'">
+        <label class="item item-input item-select">
+          <div class="input-label">
+            Monedero
+          </div>
+          <select ng-model="transferencia.destino" ng-options="monedero.id + ' - ' + monedero.alias for monedero in monederos">
+            <option value="">(seleccione monedero destino)</option>
+          </select>
+        </label>
+        <label class="item item-input">
+          <input type="number" placeholder="O digite otro monedero">
+        </label>
+      </div>
+
+    </div>
+
+
+
+    <div class="list list-inset">
+      <label class="item item-input">
+        <span class="input-label">Monto {{ transferencia.destino.moneda != ''?'en ' + transferencia.destino.moneda:''}}</span>
+        <input type="number" placeholder="Digite el monto" ng-model="monto" min="0" class="text-right">
+      </label>
+    </div>
+    <div class="list list-inset">
+
+      <label class="item item-input">
+        <input type="text" placeholder="Concepto (opcional)">
+      </label>
+
+      <label class="item item-input">
+        <input type="email" placeholder="Correo electrónico (opcional)">
+      </label>
+
+      <li class="item item-checkbox small-text">
+         <label class="checkbox checkbox-dark">
+           <input type="checkbox">
+         </label>
+         Añada como favorita
+      </li>
+
+      <a class="button button-block button-energized icon-right ion-chevron-right" type="submit" href="#/app/clave-dinamica-operacion">Continúe</a>
+
+    </div>
+
+  </ion-content>
+</ion-view>

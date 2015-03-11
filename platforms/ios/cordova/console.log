@@ -1,0 +1,2916 @@
+2015-02-04 09:03:14.933 ionic-bancredito[1158:9837] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/pra/Library/Developer/CoreSimulator/Devices/BE35E635-FFB9-45C0-8E56-95D08F435981/data/Containers/Data/Application/C5E2EC08-EDBB-4E38-BEFC-19939DC56BE5/Library/Cookies/Cookies.binarycookies
+2015-02-04 09:03:15.198 ionic-bancredito[1158:9837] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-04 09:03:15.198 ionic-bancredito[1158:9837] Multi-tasking -> Device: YES, App: YES
+2015-02-04 09:03:15.213 ionic-bancredito[1158:9837] Unlimited access to network resources
+2015-02-04 09:03:15.665 ionic-bancredito[1158:9837] CDVPlugin class IonicKeyboard (pluginName: keyboard) does not exist.
+2015-02-04 09:03:15.665 ionic-bancredito[1158:9837] [CDVTimer][keyboard] 0.207007ms
+2015-02-04 09:03:15.665 ionic-bancredito[1158:9837] [CDVTimer][TotalPluginStartup] 0.414014ms
+2015-02-04 09:03:15.966 ionic-bancredito[1158:9837] Resetting plugins due to page load.
+2015-02-04 09:03:16.228 ionic-bancredito[1158:9837] Finished load of: file:///Users/pra/Library/Developer/CoreSimulator/Devices/BE35E635-FFB9-45C0-8E56-95D08F435981/data/Containers/Bundle/Application/72434E42-53EE-4234-9919-5EF2918E82D2/ionic-bancredito.app/www/index.html#/
+2015-02-04 09:03:16.347 ionic-bancredito[1158:9837] CDVPlugin class CDVDevice (pluginName: Device) does not exist.
+2015-02-04 09:03:16.347 ionic-bancredito[1158:9837] ERROR: Plugin 'Device' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-04 09:03:16.347 ionic-bancredito[1158:9837] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "Device924764004",
+  "Device",
+  "getDeviceInfo",
+  [
+
+  ]
+]
+2015-02-04 09:03:25.785 ionic-bancredito[1158:9837] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-04 09:03:25.785 ionic-bancredito[1158:9837] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-04 09:03:25.785 ionic-bancredito[1158:9837] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-04 09:03:27.232 ionic-bancredito[1158:9837] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-04 09:03:27.233 ionic-bancredito[1158:9837] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-04 09:03:27.233 ionic-bancredito[1158:9837] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-04 09:03:27.233 ionic-bancredito[1158:9837] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-04 09:03:27.233 ionic-bancredito[1158:9837] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-04 09:03:27.233 ionic-bancredito[1158:9837] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-04 09:04:15.912 ionic-bancredito[1344:11224] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/pra/Library/Developer/CoreSimulator/Devices/BE35E635-FFB9-45C0-8E56-95D08F435981/data/Containers/Data/Application/1A95E719-0CEF-4994-9C2C-7D7F30318A40/Library/Cookies/Cookies.binarycookies
+2015-02-04 09:04:15.992 ionic-bancredito[1344:11224] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-04 09:04:15.992 ionic-bancredito[1344:11224] Multi-tasking -> Device: YES, App: YES
+2015-02-04 09:04:15.993 ionic-bancredito[1344:11224] Unlimited access to network resources
+2015-02-04 09:04:16.175 ionic-bancredito[1344:11224] CDVPlugin class IonicKeyboard (pluginName: keyboard) does not exist.
+2015-02-04 09:04:16.176 ionic-bancredito[1344:11224] [CDVTimer][keyboard] 0.219047ms
+2015-02-04 09:04:16.176 ionic-bancredito[1344:11224] [CDVTimer][TotalPluginStartup] 0.418007ms
+2015-02-04 09:04:16.394 ionic-bancredito[1344:11224] Resetting plugins due to page load.
+2015-02-04 09:04:16.550 ionic-bancredito[1344:11224] Finished load of: file:///Users/pra/Library/Developer/CoreSimulator/Devices/BE35E635-FFB9-45C0-8E56-95D08F435981/data/Containers/Bundle/Application/68F044FF-440C-498E-A7A8-9721BB1AFBFA/ionic-bancredito.app/www/index.html#/
+2015-02-04 09:04:16.682 ionic-bancredito[1344:11224] CDVPlugin class CDVDevice (pluginName: Device) does not exist.
+2015-02-04 09:04:16.682 ionic-bancredito[1344:11224] ERROR: Plugin 'Device' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-04 09:04:16.682 ionic-bancredito[1344:11224] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "Device781540054",
+  "Device",
+  "getDeviceInfo",
+  [
+
+  ]
+]
+2015-02-04 10:18:43.738 ionic-bancredito[1912:29768] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/pra/Library/Developer/CoreSimulator/Devices/BE35E635-FFB9-45C0-8E56-95D08F435981/data/Containers/Data/Application/68E0196D-24D9-4742-A652-392C6126033A/Library/Cookies/Cookies.binarycookies
+2015-02-04 10:18:44.024 ionic-bancredito[1912:29768] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-04 10:18:44.025 ionic-bancredito[1912:29768] Multi-tasking -> Device: YES, App: YES
+2015-02-04 10:18:44.039 ionic-bancredito[1912:29768] Unlimited access to network resources
+2015-02-04 10:18:44.535 ionic-bancredito[1912:29768] CDVPlugin class IonicKeyboard (pluginName: keyboard) does not exist.
+2015-02-04 10:18:44.539 ionic-bancredito[1912:29768] [CDVTimer][keyboard] 3.794014ms
+2015-02-04 10:18:44.539 ionic-bancredito[1912:29768] [CDVTimer][TotalPluginStartup] 4.007995ms
+2015-02-04 10:18:44.883 ionic-bancredito[1912:29768] Resetting plugins due to page load.
+2015-02-04 10:18:45.159 ionic-bancredito[1912:29768] Finished load of: file:///Users/pra/Library/Developer/CoreSimulator/Devices/BE35E635-FFB9-45C0-8E56-95D08F435981/data/Containers/Bundle/Application/061EE26A-C984-4C06-AF5C-6284199D4C5A/ionic-bancredito.app/www/index.html#/
+2015-02-04 10:18:45.309 ionic-bancredito[1912:29768] CDVPlugin class CDVDevice (pluginName: Device) does not exist.
+2015-02-04 10:18:45.309 ionic-bancredito[1912:29768] ERROR: Plugin 'Device' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-04 10:18:45.310 ionic-bancredito[1912:29768] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "Device253440328",
+  "Device",
+  "getDeviceInfo",
+  [
+
+  ]
+]
+2015-02-04 10:19:40.719 ionic-bancredito[2114:31322] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/pra/Library/Developer/CoreSimulator/Devices/BE35E635-FFB9-45C0-8E56-95D08F435981/data/Containers/Data/Application/09E69E02-9B3F-44CB-8255-53C4CAF09CD9/Library/Cookies/Cookies.binarycookies
+2015-02-04 10:19:40.805 ionic-bancredito[2114:31322] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-04 10:19:40.806 ionic-bancredito[2114:31322] Multi-tasking -> Device: YES, App: YES
+2015-02-04 10:19:40.807 ionic-bancredito[2114:31322] Unlimited access to network resources
+2015-02-04 10:19:41.003 ionic-bancredito[2114:31322] CDVPlugin class IonicKeyboard (pluginName: keyboard) does not exist.
+2015-02-04 10:19:41.004 ionic-bancredito[2114:31322] [CDVTimer][keyboard] 0.235021ms
+2015-02-04 10:19:41.004 ionic-bancredito[2114:31322] [CDVTimer][TotalPluginStartup] 1.645982ms
+2015-02-04 10:19:41.110 ionic-bancredito[2114:31322] Resetting plugins due to page load.
+2015-02-04 10:19:41.308 ionic-bancredito[2114:31322] Finished load of: file:///Users/pra/Library/Developer/CoreSimulator/Devices/BE35E635-FFB9-45C0-8E56-95D08F435981/data/Containers/Bundle/Application/2F45FB38-8A98-4C0C-ABEC-CAB13C5DA1E2/ionic-bancredito.app/www/index.html#/
+2015-02-04 10:19:41.422 ionic-bancredito[2114:31322] CDVPlugin class CDVDevice (pluginName: Device) does not exist.
+2015-02-04 10:19:41.423 ionic-bancredito[2114:31322] ERROR: Plugin 'Device' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-04 10:19:41.423 ionic-bancredito[2114:31322] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "Device508109111",
+  "Device",
+  "getDeviceInfo",
+  [
+
+  ]
+]
+2015-02-04 11:58:59.504 ionic-bancredito[2737:63177] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/pra/Library/Developer/CoreSimulator/Devices/BE35E635-FFB9-45C0-8E56-95D08F435981/data/Containers/Data/Application/8DA384E4-8BA8-46F2-8438-C6B2705A9420/Library/Cookies/Cookies.binarycookies
+2015-02-04 11:58:59.737 ionic-bancredito[2737:63177] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-04 11:58:59.738 ionic-bancredito[2737:63177] Multi-tasking -> Device: YES, App: YES
+2015-02-04 11:58:59.750 ionic-bancredito[2737:63177] Unlimited access to network resources
+2015-02-04 11:59:00.240 ionic-bancredito[2737:63177] CDVPlugin class IonicKeyboard (pluginName: keyboard) does not exist.
+2015-02-04 11:59:00.240 ionic-bancredito[2737:63177] [CDVTimer][keyboard] 0.199974ms
+2015-02-04 11:59:00.240 ionic-bancredito[2737:63177] [CDVTimer][TotalPluginStartup] 0.358999ms
+2015-02-04 11:59:00.436 ionic-bancredito[2737:63177] Resetting plugins due to page load.
+2015-02-04 11:59:00.668 ionic-bancredito[2737:63177] Finished load of: file:///Users/pra/Library/Developer/CoreSimulator/Devices/BE35E635-FFB9-45C0-8E56-95D08F435981/data/Containers/Bundle/Application/8C774FFF-806F-48B4-9CFB-E3710CEE5E2F/ionic-bancredito.app/www/index.html#/
+2015-02-04 11:59:00.815 ionic-bancredito[2737:63177] CDVPlugin class CDVDevice (pluginName: Device) does not exist.
+2015-02-04 11:59:00.816 ionic-bancredito[2737:63177] ERROR: Plugin 'Device' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-04 11:59:00.816 ionic-bancredito[2737:63177] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "Device1318972133",
+  "Device",
+  "getDeviceInfo",
+  [
+
+  ]
+]
+2015-02-04 11:59:05.618 ionic-bancredito[2737:63177] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-04 11:59:05.619 ionic-bancredito[2737:63177] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-04 11:59:05.619 ionic-bancredito[2737:63177] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-04 11:59:18.981 ionic-bancredito[2737:63177] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-04 11:59:18.982 ionic-bancredito[2737:63177] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-04 11:59:18.982 ionic-bancredito[2737:63177] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-04 11:59:22.938 ionic-bancredito[2737:63177] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-04 11:59:22.938 ionic-bancredito[2737:63177] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-04 11:59:22.938 ionic-bancredito[2737:63177] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-04 11:59:24.760 ionic-bancredito[2737:63177] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-04 11:59:24.760 ionic-bancredito[2737:63177] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-04 11:59:24.760 ionic-bancredito[2737:63177] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-04 11:59:24.761 ionic-bancredito[2737:63177] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-04 11:59:24.761 ionic-bancredito[2737:63177] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-04 11:59:24.761 ionic-bancredito[2737:63177] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-04 11:59:30.513 ionic-bancredito[2737:63177] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-04 11:59:30.513 ionic-bancredito[2737:63177] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-04 11:59:30.514 ionic-bancredito[2737:63177] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-04 11:59:52.441 ionic-bancredito[2737:63177] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-04 11:59:52.441 ionic-bancredito[2737:63177] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-04 11:59:52.441 ionic-bancredito[2737:63177] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-04 11:59:54.174 ionic-bancredito[2737:63177] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-04 11:59:54.174 ionic-bancredito[2737:63177] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-04 11:59:54.174 ionic-bancredito[2737:63177] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-04 11:59:57.078 ionic-bancredito[2737:63177] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-04 11:59:57.078 ionic-bancredito[2737:63177] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-04 11:59:57.078 ionic-bancredito[2737:63177] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-04 11:59:58.598 ionic-bancredito[2737:63177] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-04 11:59:58.598 ionic-bancredito[2737:63177] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-04 11:59:58.598 ionic-bancredito[2737:63177] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-04 14:13:14.263 ionic-bancredito[3211:91752] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/pra/Library/Developer/CoreSimulator/Devices/BE35E635-FFB9-45C0-8E56-95D08F435981/data/Containers/Data/Application/D71F8DB0-466F-4A1D-9BE3-952DCDD35A8E/Library/Cookies/Cookies.binarycookies
+2015-02-04 14:13:14.513 ionic-bancredito[3211:91752] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-04 14:13:14.513 ionic-bancredito[3211:91752] Multi-tasking -> Device: YES, App: YES
+2015-02-04 14:13:14.525 ionic-bancredito[3211:91752] Unlimited access to network resources
+2015-02-04 14:13:14.978 ionic-bancredito[3211:91752] CDVPlugin class IonicKeyboard (pluginName: keyboard) does not exist.
+2015-02-04 14:13:14.978 ionic-bancredito[3211:91752] [CDVTimer][keyboard] 0.147998ms
+2015-02-04 14:13:14.979 ionic-bancredito[3211:91752] [CDVTimer][TotalPluginStartup] 0.337005ms
+2015-02-04 14:13:15.180 ionic-bancredito[3211:91752] Resetting plugins due to page load.
+2015-02-04 14:13:15.409 ionic-bancredito[3211:91752] Finished load of: file:///Users/pra/Library/Developer/CoreSimulator/Devices/BE35E635-FFB9-45C0-8E56-95D08F435981/data/Containers/Bundle/Application/748098A2-3B24-4FDD-A893-B94F8151A068/ionic-bancredito.app/www/index.html#/
+2015-02-04 14:13:15.547 ionic-bancredito[3211:91752] CDVPlugin class CDVDevice (pluginName: Device) does not exist.
+2015-02-04 14:13:15.548 ionic-bancredito[3211:91752] ERROR: Plugin 'Device' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-04 14:13:15.548 ionic-bancredito[3211:91752] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "Device29322876",
+  "Device",
+  "getDeviceInfo",
+  [
+
+  ]
+]
+2015-02-04 14:13:34.762 ionic-bancredito[3211:91752] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-04 14:13:34.763 ionic-bancredito[3211:91752] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-04 14:13:34.763 ionic-bancredito[3211:91752] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-04 14:15:08.138 ionic-bancredito[3211:91752] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-04 14:15:08.139 ionic-bancredito[3211:91752] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-04 14:15:08.139 ionic-bancredito[3211:91752] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-04 14:15:57.794 ionic-bancredito[3211:91752] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-04 14:15:57.795 ionic-bancredito[3211:91752] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-04 14:15:57.795 ionic-bancredito[3211:91752] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-04 14:16:04.406 ionic-bancredito[3211:91752] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-04 14:16:04.406 ionic-bancredito[3211:91752] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-04 14:16:04.406 ionic-bancredito[3211:91752] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-04 14:16:20.698 ionic-bancredito[3211:91752] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-04 14:16:20.698 ionic-bancredito[3211:91752] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-04 14:16:20.698 ionic-bancredito[3211:91752] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-04 14:16:22.086 ionic-bancredito[3211:91752] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-04 14:16:22.086 ionic-bancredito[3211:91752] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-04 14:16:22.086 ionic-bancredito[3211:91752] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-04 14:16:22.086 ionic-bancredito[3211:91752] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-04 14:16:22.087 ionic-bancredito[3211:91752] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-04 14:16:22.087 ionic-bancredito[3211:91752] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-04 14:16:27.519 ionic-bancredito[3211:91752] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-04 14:16:27.519 ionic-bancredito[3211:91752] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-04 14:16:27.519 ionic-bancredito[3211:91752] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-04 14:16:28.922 ionic-bancredito[3211:91752] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-04 14:16:28.922 ionic-bancredito[3211:91752] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-04 14:16:28.922 ionic-bancredito[3211:91752] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-04 14:16:51.568 ionic-bancredito[3211:91752] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-04 14:16:51.568 ionic-bancredito[3211:91752] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-04 14:16:51.568 ionic-bancredito[3211:91752] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-04 14:16:51.568 ionic-bancredito[3211:91752] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-04 14:16:51.568 ionic-bancredito[3211:91752] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-04 14:16:51.568 ionic-bancredito[3211:91752] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-04 14:26:01.932 ionic-bancredito[3211:91752] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-04 14:26:01.932 ionic-bancredito[3211:91752] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-04 14:26:01.933 ionic-bancredito[3211:91752] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-04 14:26:04.175 ionic-bancredito[3211:91752] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-04 14:26:04.175 ionic-bancredito[3211:91752] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-04 14:26:04.175 ionic-bancredito[3211:91752] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-04 14:26:05.165 ionic-bancredito[3211:91752] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-04 14:26:05.166 ionic-bancredito[3211:91752] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-04 14:26:05.166 ionic-bancredito[3211:91752] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-04 14:26:05.166 ionic-bancredito[3211:91752] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-04 14:26:05.166 ionic-bancredito[3211:91752] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-04 14:26:05.166 ionic-bancredito[3211:91752] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-04 14:26:14.998 ionic-bancredito[3211:91752] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-04 14:26:14.998 ionic-bancredito[3211:91752] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-04 14:26:14.999 ionic-bancredito[3211:91752] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-04 14:26:18.999 ionic-bancredito[3211:91752] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-04 14:26:18.999 ionic-bancredito[3211:91752] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-04 14:26:18.999 ionic-bancredito[3211:91752] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-04 14:57:12.746 ionic-bancredito[3211:91752] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-04 14:57:12.746 ionic-bancredito[3211:91752] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-04 14:57:12.746 ionic-bancredito[3211:91752] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-04 15:12:44.125 ionic-bancredito[3211:91752] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-04 15:12:44.126 ionic-bancredito[3211:91752] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-04 15:12:44.126 ionic-bancredito[3211:91752] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-04 15:12:47.865 ionic-bancredito[3211:91752] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-04 15:12:47.866 ionic-bancredito[3211:91752] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-04 15:12:47.866 ionic-bancredito[3211:91752] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-04 16:05:48.212 ionic-bancredito[3560:118730] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/pra/Library/Developer/CoreSimulator/Devices/BE35E635-FFB9-45C0-8E56-95D08F435981/data/Containers/Data/Application/E39AA8E0-CCCF-4CBB-A394-30D7B8D033E0/Library/Cookies/Cookies.binarycookies
+2015-02-04 16:05:48.380 ionic-bancredito[3560:118730] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-04 16:05:48.380 ionic-bancredito[3560:118730] Multi-tasking -> Device: YES, App: YES
+2015-02-04 16:05:48.394 ionic-bancredito[3560:118730] Unlimited access to network resources
+2015-02-04 16:05:48.703 ionic-bancredito[3560:118730] CDVPlugin class IonicKeyboard (pluginName: keyboard) does not exist.
+2015-02-04 16:05:48.704 ionic-bancredito[3560:118730] [CDVTimer][keyboard] 0.162005ms
+2015-02-04 16:05:48.704 ionic-bancredito[3560:118730] [CDVTimer][TotalPluginStartup] 0.647962ms
+2015-02-04 16:05:48.868 ionic-bancredito[3560:118730] Resetting plugins due to page load.
+2015-02-04 16:05:49.152 ionic-bancredito[3560:118730] Finished load of: file:///Users/pra/Library/Developer/CoreSimulator/Devices/BE35E635-FFB9-45C0-8E56-95D08F435981/data/Containers/Bundle/Application/DA18A8BB-FABA-493A-A97E-1657D5B2DCC6/ionic-bancredito.app/www/index.html#/
+2015-02-04 16:05:49.298 ionic-bancredito[3560:118730] CDVPlugin class CDVDevice (pluginName: Device) does not exist.
+2015-02-04 16:05:49.298 ionic-bancredito[3560:118730] ERROR: Plugin 'Device' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-04 16:05:49.298 ionic-bancredito[3560:118730] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "Device771926394",
+  "Device",
+  "getDeviceInfo",
+  [
+
+  ]
+]
+2015-02-04 16:06:08.615 ionic-bancredito[3560:118730] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-04 16:06:08.615 ionic-bancredito[3560:118730] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-04 16:06:08.616 ionic-bancredito[3560:118730] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-04 16:06:10.976 ionic-bancredito[3560:118730] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-04 16:06:10.976 ionic-bancredito[3560:118730] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-04 16:06:10.976 ionic-bancredito[3560:118730] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-04 16:07:55.568 ionic-bancredito[3833:121000] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/pra/Library/Developer/CoreSimulator/Devices/BE35E635-FFB9-45C0-8E56-95D08F435981/data/Containers/Data/Application/0BA5C25D-424F-44CA-BD47-8B0D15B3EC2A/Library/Cookies/Cookies.binarycookies
+2015-02-04 16:07:55.667 ionic-bancredito[3833:121000] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-04 16:07:55.668 ionic-bancredito[3833:121000] Multi-tasking -> Device: YES, App: YES
+2015-02-04 16:07:55.669 ionic-bancredito[3833:121000] Unlimited access to network resources
+2015-02-04 16:07:55.835 ionic-bancredito[3833:121000] CDVPlugin class IonicKeyboard (pluginName: keyboard) does not exist.
+2015-02-04 16:07:55.835 ionic-bancredito[3833:121000] [CDVTimer][keyboard] 0.145972ms
+2015-02-04 16:07:55.835 ionic-bancredito[3833:121000] [CDVTimer][TotalPluginStartup] 0.298023ms
+2015-02-04 16:07:55.884 ionic-bancredito[3833:121000] Resetting plugins due to page load.
+2015-02-04 16:07:56.023 ionic-bancredito[3833:121000] Finished load of: file:///Users/pra/Library/Developer/CoreSimulator/Devices/BE35E635-FFB9-45C0-8E56-95D08F435981/data/Containers/Bundle/Application/0DAEC62C-A571-4D11-8308-F6310A246641/ionic-bancredito.app/www/index.html#/
+2015-02-04 16:07:56.132 ionic-bancredito[3833:121000] CDVPlugin class CDVDevice (pluginName: Device) does not exist.
+2015-02-04 16:07:56.132 ionic-bancredito[3833:121000] ERROR: Plugin 'Device' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-04 16:07:56.132 ionic-bancredito[3833:121000] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "Device268058738",
+  "Device",
+  "getDeviceInfo",
+  [
+
+  ]
+]
+2015-02-04 16:39:56.032 ionic-bancredito[4047:127623] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/pra/Library/Developer/CoreSimulator/Devices/BE35E635-FFB9-45C0-8E56-95D08F435981/data/Containers/Data/Application/06D6AD76-58A5-4322-8A3D-E0D280AF3F92/Library/Cookies/Cookies.binarycookies
+2015-02-04 16:39:56.272 ionic-bancredito[4047:127623] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-04 16:39:56.272 ionic-bancredito[4047:127623] Multi-tasking -> Device: YES, App: YES
+2015-02-04 16:39:56.285 ionic-bancredito[4047:127623] Unlimited access to network resources
+2015-02-04 16:39:56.746 ionic-bancredito[4047:127623] CDVPlugin class IonicKeyboard (pluginName: keyboard) does not exist.
+2015-02-04 16:39:56.746 ionic-bancredito[4047:127623] [CDVTimer][keyboard] 0.167012ms
+2015-02-04 16:39:56.747 ionic-bancredito[4047:127623] [CDVTimer][TotalPluginStartup] 0.311017ms
+2015-02-04 16:39:56.940 ionic-bancredito[4047:127623] Resetting plugins due to page load.
+2015-02-04 16:39:57.154 ionic-bancredito[4047:127623] Finished load of: file:///Users/pra/Library/Developer/CoreSimulator/Devices/BE35E635-FFB9-45C0-8E56-95D08F435981/data/Containers/Bundle/Application/DA0603CF-6347-4BD1-90F3-3FB4373501C4/ionic-bancredito.app/www/index.html#/
+2015-02-04 16:39:57.289 ionic-bancredito[4047:127623] CDVPlugin class CDVDevice (pluginName: Device) does not exist.
+2015-02-04 16:39:57.289 ionic-bancredito[4047:127623] ERROR: Plugin 'Device' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-04 16:39:57.289 ionic-bancredito[4047:127623] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "Device1869058710",
+  "Device",
+  "getDeviceInfo",
+  [
+
+  ]
+]
+2015-02-04 16:40:33.439 ionic-bancredito[4206:128480] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/pra/Library/Developer/CoreSimulator/Devices/BE35E635-FFB9-45C0-8E56-95D08F435981/data/Containers/Data/Application/CCC2608E-72CD-48BD-A499-D0B5D9934B15/Library/Cookies/Cookies.binarycookies
+2015-02-04 16:40:33.524 ionic-bancredito[4206:128480] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-04 16:40:33.524 ionic-bancredito[4206:128480] Multi-tasking -> Device: YES, App: YES
+2015-02-04 16:40:33.525 ionic-bancredito[4206:128480] Unlimited access to network resources
+2015-02-04 16:40:33.698 ionic-bancredito[4206:128480] CDVPlugin class IonicKeyboard (pluginName: keyboard) does not exist.
+2015-02-04 16:40:33.698 ionic-bancredito[4206:128480] [CDVTimer][keyboard] 0.156999ms
+2015-02-04 16:40:33.699 ionic-bancredito[4206:128480] [CDVTimer][TotalPluginStartup] 0.307977ms
+2015-02-04 16:40:33.834 ionic-bancredito[4206:128480] Resetting plugins due to page load.
+2015-02-04 16:40:33.984 ionic-bancredito[4206:128480] Finished load of: file:///Users/pra/Library/Developer/CoreSimulator/Devices/BE35E635-FFB9-45C0-8E56-95D08F435981/data/Containers/Bundle/Application/59010449-ED4D-46E0-B802-D46E8D5101A2/ionic-bancredito.app/www/index.html#/
+2015-02-04 16:40:34.096 ionic-bancredito[4206:128480] CDVPlugin class CDVDevice (pluginName: Device) does not exist.
+2015-02-04 16:40:34.096 ionic-bancredito[4206:128480] ERROR: Plugin 'Device' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-04 16:40:34.096 ionic-bancredito[4206:128480] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "Device260619996",
+  "Device",
+  "getDeviceInfo",
+  [
+
+  ]
+]
+2015-02-04 16:40:43.415 ionic-bancredito[4345:128889] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/pra/Library/Developer/CoreSimulator/Devices/BE35E635-FFB9-45C0-8E56-95D08F435981/data/Containers/Data/Application/DB0C1032-E697-45F4-9C7F-4D2724888A11/Library/Cookies/Cookies.binarycookies
+2015-02-04 16:40:43.489 ionic-bancredito[4345:128889] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-04 16:40:43.489 ionic-bancredito[4345:128889] Multi-tasking -> Device: YES, App: YES
+2015-02-04 16:40:43.490 ionic-bancredito[4345:128889] Unlimited access to network resources
+2015-02-04 16:40:43.685 ionic-bancredito[4345:128889] CDVPlugin class IonicKeyboard (pluginName: keyboard) does not exist.
+2015-02-04 16:40:43.685 ionic-bancredito[4345:128889] [CDVTimer][keyboard] 0.156999ms
+2015-02-04 16:40:43.685 ionic-bancredito[4345:128889] [CDVTimer][TotalPluginStartup] 0.288963ms
+2015-02-04 16:40:43.784 ionic-bancredito[4345:128889] Resetting plugins due to page load.
+2015-02-04 16:40:43.994 ionic-bancredito[4345:128889] Finished load of: file:///Users/pra/Library/Developer/CoreSimulator/Devices/BE35E635-FFB9-45C0-8E56-95D08F435981/data/Containers/Bundle/Application/0E761ED1-D7BF-4444-A017-A82F7FFCE23D/ionic-bancredito.app/www/index.html#/
+2015-02-04 16:40:44.128 ionic-bancredito[4345:128889] CDVPlugin class CDVDevice (pluginName: Device) does not exist.
+2015-02-04 16:40:44.128 ionic-bancredito[4345:128889] ERROR: Plugin 'Device' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-04 16:40:44.128 ionic-bancredito[4345:128889] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "Device215141584",
+  "Device",
+  "getDeviceInfo",
+  [
+
+  ]
+]
+2015-02-04 16:45:23.430 ionic-bancredito[4345:128889] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-04 16:45:23.430 ionic-bancredito[4345:128889] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-04 16:45:23.430 ionic-bancredito[4345:128889] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-04 16:45:26.524 ionic-bancredito[4345:128889] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-04 16:45:26.524 ionic-bancredito[4345:128889] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-04 16:45:26.524 ionic-bancredito[4345:128889] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-04 16:45:28.736 ionic-bancredito[4345:128889] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-04 16:45:28.736 ionic-bancredito[4345:128889] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-04 16:45:28.736 ionic-bancredito[4345:128889] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-04 16:45:31.408 ionic-bancredito[4345:128889] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-04 16:45:31.408 ionic-bancredito[4345:128889] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-04 16:45:31.408 ionic-bancredito[4345:128889] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-04 16:45:31.409 ionic-bancredito[4345:128889] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-04 16:45:31.409 ionic-bancredito[4345:128889] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-04 16:45:31.409 ionic-bancredito[4345:128889] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-04 16:45:42.059 ionic-bancredito[4345:128889] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-04 16:45:42.060 ionic-bancredito[4345:128889] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-04 16:45:42.060 ionic-bancredito[4345:128889] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-04 16:45:45.079 ionic-bancredito[4345:128889] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-04 16:45:45.079 ionic-bancredito[4345:128889] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-04 16:45:45.079 ionic-bancredito[4345:128889] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-04 16:45:51.860 ionic-bancredito[4345:128889] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-04 16:45:51.860 ionic-bancredito[4345:128889] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-04 16:45:51.860 ionic-bancredito[4345:128889] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-04 16:45:56.665 ionic-bancredito[4345:128889] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-04 16:45:56.666 ionic-bancredito[4345:128889] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-04 16:45:56.666 ionic-bancredito[4345:128889] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-04 16:46:01.262 ionic-bancredito[4345:128889] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-04 16:46:01.262 ionic-bancredito[4345:128889] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-04 16:46:01.262 ionic-bancredito[4345:128889] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-04 16:46:15.624 ionic-bancredito[4345:128889] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-04 16:46:15.624 ionic-bancredito[4345:128889] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-04 16:46:15.624 ionic-bancredito[4345:128889] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-04 16:46:53.698 ionic-bancredito[4345:128889] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-04 16:46:53.698 ionic-bancredito[4345:128889] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-04 16:46:53.698 ionic-bancredito[4345:128889] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-04 16:46:55.276 ionic-bancredito[4345:128889] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-04 16:46:55.277 ionic-bancredito[4345:128889] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-04 16:46:55.277 ionic-bancredito[4345:128889] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-04 16:46:57.896 ionic-bancredito[4345:128889] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-04 16:46:57.896 ionic-bancredito[4345:128889] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-04 16:46:57.897 ionic-bancredito[4345:128889] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-05 09:22:51.831 ionic-bancredito[5017:173018] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/pra/Library/Developer/CoreSimulator/Devices/BE35E635-FFB9-45C0-8E56-95D08F435981/data/Containers/Data/Application/50CEFC27-BD80-4C48-B86E-D0249D097121/Library/Cookies/Cookies.binarycookies
+2015-02-05 09:22:52.098 ionic-bancredito[5017:173018] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-05 09:22:52.098 ionic-bancredito[5017:173018] Multi-tasking -> Device: YES, App: YES
+2015-02-05 09:22:52.114 ionic-bancredito[5017:173018] Unlimited access to network resources
+2015-02-05 09:22:52.546 ionic-bancredito[5017:173018] CDVPlugin class IonicKeyboard (pluginName: keyboard) does not exist.
+2015-02-05 09:22:52.546 ionic-bancredito[5017:173018] [CDVTimer][keyboard] 0.142992ms
+2015-02-05 09:22:52.546 ionic-bancredito[5017:173018] [CDVTimer][TotalPluginStartup] 0.284016ms
+2015-02-05 09:22:52.838 ionic-bancredito[5017:173018] Resetting plugins due to page load.
+2015-02-05 09:22:53.101 ionic-bancredito[5017:173018] Finished load of: file:///Users/pra/Library/Developer/CoreSimulator/Devices/BE35E635-FFB9-45C0-8E56-95D08F435981/data/Containers/Bundle/Application/45BA6475-93BC-434E-AF1B-FFBBB504170E/ionic-bancredito.app/www/index.html#/
+2015-02-05 09:22:53.255 ionic-bancredito[5017:173018] CDVPlugin class CDVDevice (pluginName: Device) does not exist.
+2015-02-05 09:22:53.256 ionic-bancredito[5017:173018] ERROR: Plugin 'Device' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-05 09:22:53.256 ionic-bancredito[5017:173018] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "Device615309284",
+  "Device",
+  "getDeviceInfo",
+  [
+
+  ]
+]
+2015-02-05 09:22:55.079 ionic-bancredito[5017:173018] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-05 09:22:55.080 ionic-bancredito[5017:173018] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-05 09:22:55.080 ionic-bancredito[5017:173018] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-05 09:22:55.754 ionic-bancredito[5017:173018] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-05 09:22:55.754 ionic-bancredito[5017:173018] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-05 09:22:55.754 ionic-bancredito[5017:173018] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-05 09:22:55.755 ionic-bancredito[5017:173018] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-05 09:22:55.755 ionic-bancredito[5017:173018] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-05 09:22:55.755 ionic-bancredito[5017:173018] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-05 09:23:02.121 ionic-bancredito[5017:173018] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-05 09:23:02.121 ionic-bancredito[5017:173018] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-05 09:23:02.121 ionic-bancredito[5017:173018] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-05 09:23:03.386 ionic-bancredito[5017:173018] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-05 09:23:03.386 ionic-bancredito[5017:173018] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-05 09:23:03.387 ionic-bancredito[5017:173018] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-05 17:28:10.432 Bancrédito Móvil[5873:266855] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/pra/Library/Developer/CoreSimulator/Devices/BE35E635-FFB9-45C0-8E56-95D08F435981/data/Containers/Data/Application/D7AF11C7-0D09-4D10-B31D-B8440CF7FF89/Library/Cookies/Cookies.binarycookies
+2015-02-05 17:28:10.719 Bancrédito Móvil[5873:266855] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-05 17:28:10.719 Bancrédito Móvil[5873:266855] Multi-tasking -> Device: YES, App: YES
+2015-02-05 17:28:10.736 Bancrédito Móvil[5873:266855] Unlimited access to network resources
+2015-02-05 17:28:11.202 Bancrédito Móvil[5873:266855] CDVPlugin class IonicKeyboard (pluginName: keyboard) does not exist.
+2015-02-05 17:28:11.203 Bancrédito Móvil[5873:266855] [CDVTimer][keyboard] 0.159979ms
+2015-02-05 17:28:11.203 Bancrédito Móvil[5873:266855] [CDVTimer][TotalPluginStartup] 0.321031ms
+2015-02-05 17:28:11.515 Bancrédito Móvil[5873:266855] Resetting plugins due to page load.
+2015-02-05 17:28:11.807 Bancrédito Móvil[5873:266855] Finished load of: file:///Users/pra/Library/Developer/CoreSimulator/Devices/BE35E635-FFB9-45C0-8E56-95D08F435981/data/Containers/Bundle/Application/9809677D-5A65-417E-83A5-9894D482191C/Bancre%CC%81dito%20Mo%CC%81vil.app/www/index.html#/
+2015-02-05 17:28:11.985 Bancrédito Móvil[5873:266855] CDVPlugin class CDVDevice (pluginName: Device) does not exist.
+2015-02-05 17:28:11.985 Bancrédito Móvil[5873:266855] ERROR: Plugin 'Device' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-05 17:28:11.985 Bancrédito Móvil[5873:266855] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "Device1579870117",
+  "Device",
+  "getDeviceInfo",
+  [
+
+  ]
+]
+2015-02-05 17:31:27.028 Bancrédito Móvil[5873:266855] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-05 17:31:27.029 Bancrédito Móvil[5873:266855] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-05 17:31:27.029 Bancrédito Móvil[5873:266855] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-05 17:31:28.720 Bancrédito Móvil[5873:266855] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-05 17:31:28.720 Bancrédito Móvil[5873:266855] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-05 17:31:28.720 Bancrédito Móvil[5873:266855] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-05 17:31:28.720 Bancrédito Móvil[5873:266855] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-05 17:31:28.721 Bancrédito Móvil[5873:266855] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-05 17:31:28.721 Bancrédito Móvil[5873:266855] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-05 17:31:30.387 Bancrédito Móvil[5873:266855] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-05 17:31:30.387 Bancrédito Móvil[5873:266855] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-05 17:31:30.387 Bancrédito Móvil[5873:266855] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-05 17:31:34.763 Bancrédito Móvil[5873:266855] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-05 17:31:34.763 Bancrédito Móvil[5873:266855] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-05 17:31:34.764 Bancrédito Móvil[5873:266855] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-05 17:31:39.190 Bancrédito Móvil[5873:266855] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-05 17:31:39.190 Bancrédito Móvil[5873:266855] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-05 17:31:39.191 Bancrédito Móvil[5873:266855] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-05 17:32:24.291 Bancrédito Móvil[5873:266855] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-05 17:32:24.292 Bancrédito Móvil[5873:266855] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-05 17:32:24.292 Bancrédito Móvil[5873:266855] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-05 17:32:35.434 Bancrédito Móvil[5873:266855] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-05 17:32:35.434 Bancrédito Móvil[5873:266855] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-05 17:32:35.434 Bancrédito Móvil[5873:266855] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-05 17:32:35.434 Bancrédito Móvil[5873:266855] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-05 17:32:35.434 Bancrédito Móvil[5873:266855] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-05 17:32:35.434 Bancrédito Móvil[5873:266855] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-05 17:32:44.534 Bancrédito Móvil[5873:266855] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-05 17:32:44.534 Bancrédito Móvil[5873:266855] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-05 17:32:44.534 Bancrédito Móvil[5873:266855] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-05 17:32:46.835 Bancrédito Móvil[5873:266855] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-05 17:32:46.835 Bancrédito Móvil[5873:266855] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-05 17:32:46.835 Bancrédito Móvil[5873:266855] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-05 17:32:49.970 Bancrédito Móvil[5873:266855] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-05 17:32:49.970 Bancrédito Móvil[5873:266855] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-05 17:32:49.970 Bancrédito Móvil[5873:266855] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-05 17:32:50.682 Bancrédito Móvil[5873:266855] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-05 17:32:50.682 Bancrédito Móvil[5873:266855] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-05 17:32:50.682 Bancrédito Móvil[5873:266855] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-05 17:32:53.696 Bancrédito Móvil[5873:266855] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-05 17:32:53.696 Bancrédito Móvil[5873:266855] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-05 17:32:53.696 Bancrédito Móvil[5873:266855] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-05 17:32:56.691 Bancrédito Móvil[5873:266855] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-05 17:32:56.692 Bancrédito Móvil[5873:266855] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-05 17:32:56.692 Bancrédito Móvil[5873:266855] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-05 17:33:00.086 Bancrédito Móvil[5873:266855] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-05 17:33:00.086 Bancrédito Móvil[5873:266855] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-05 17:33:00.086 Bancrédito Móvil[5873:266855] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-05 17:33:02.272 Bancrédito Móvil[5873:266855] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-05 17:33:02.272 Bancrédito Móvil[5873:266855] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-05 17:33:02.272 Bancrédito Móvil[5873:266855] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-05 17:33:04.758 Bancrédito Móvil[5873:266855] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-05 17:33:04.758 Bancrédito Móvil[5873:266855] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-05 17:33:04.759 Bancrédito Móvil[5873:266855] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-05 17:33:07.074 Bancrédito Móvil[5873:266855] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-05 17:33:07.075 Bancrédito Móvil[5873:266855] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-05 17:33:07.075 Bancrédito Móvil[5873:266855] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-05 17:33:16.623 Bancrédito Móvil[5873:266855] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-05 17:33:16.623 Bancrédito Móvil[5873:266855] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-05 17:33:16.623 Bancrédito Móvil[5873:266855] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-05 17:33:17.510 Bancrédito Móvil[5873:266855] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-05 17:33:17.510 Bancrédito Móvil[5873:266855] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-05 17:33:17.510 Bancrédito Móvil[5873:266855] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-05 17:33:20.255 Bancrédito Móvil[5873:266855] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-05 17:33:20.255 Bancrédito Móvil[5873:266855] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-05 17:33:20.255 Bancrédito Móvil[5873:266855] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-05 17:33:23.113 Bancrédito Móvil[5873:266855] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-05 17:33:23.113 Bancrédito Móvil[5873:266855] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-05 17:33:23.114 Bancrédito Móvil[5873:266855] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-05 17:33:26.135 Bancrédito Móvil[5873:266855] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-05 17:33:26.135 Bancrédito Móvil[5873:266855] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-05 17:33:26.135 Bancrédito Móvil[5873:266855] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-05 17:33:30.449 Bancrédito Móvil[5873:266855] Resetting plugins due to page load.
+2015-02-05 17:33:30.463 Bancrédito Móvil[5873:266855] Failed to load webpage with error: Frame load interrupted
+2015-02-05 17:33:32.524 Bancrédito Móvil[5873:266855] Resetting plugins due to page load.
+2015-02-05 17:33:32.525 Bancrédito Móvil[5873:266855] Failed to load webpage with error: Frame load interrupted
+2015-02-05 17:33:34.246 Bancrédito Móvil[5873:266855] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-05 17:33:34.246 Bancrédito Móvil[5873:266855] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-05 17:33:34.246 Bancrédito Móvil[5873:266855] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-05 17:33:35.210 Bancrédito Móvil[5873:266855] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-05 17:33:35.211 Bancrédito Móvil[5873:266855] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-05 17:33:35.211 Bancrédito Móvil[5873:266855] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-05 17:33:39.081 Bancrédito Móvil[5873:266855] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-05 17:33:39.081 Bancrédito Móvil[5873:266855] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-05 17:33:39.081 Bancrédito Móvil[5873:266855] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-05 17:33:42.558 Bancrédito Móvil[5873:266855] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-05 17:33:42.558 Bancrédito Móvil[5873:266855] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-05 17:33:42.558 Bancrédito Móvil[5873:266855] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-05 17:33:45.167 Bancrédito Móvil[5873:266855] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-05 17:33:45.167 Bancrédito Móvil[5873:266855] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-05 17:33:45.167 Bancrédito Móvil[5873:266855] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-05 18:11:21.439 Bancrédito Móvil[6173:278321] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/pra/Library/Developer/CoreSimulator/Devices/BE35E635-FFB9-45C0-8E56-95D08F435981/data/Containers/Data/Application/CCED1AB1-3D8F-41E8-B111-6980396A910A/Library/Cookies/Cookies.binarycookies
+2015-02-05 18:11:21.754 Bancrédito Móvil[6173:278321] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-05 18:11:21.755 Bancrédito Móvil[6173:278321] Multi-tasking -> Device: YES, App: YES
+2015-02-05 18:11:21.776 Bancrédito Móvil[6173:278321] Unlimited access to network resources
+2015-02-05 18:11:22.211 Bancrédito Móvil[6173:278321] CDVPlugin class IonicKeyboard (pluginName: keyboard) does not exist.
+2015-02-05 18:11:22.211 Bancrédito Móvil[6173:278321] [CDVTimer][keyboard] 0.162005ms
+2015-02-05 18:11:22.211 Bancrédito Móvil[6173:278321] [CDVTimer][TotalPluginStartup] 0.769019ms
+2015-02-05 18:11:22.509 Bancrédito Móvil[6173:278321] Resetting plugins due to page load.
+2015-02-05 18:11:22.769 Bancrédito Móvil[6173:278321] Finished load of: file:///Users/pra/Library/Developer/CoreSimulator/Devices/BE35E635-FFB9-45C0-8E56-95D08F435981/data/Containers/Bundle/Application/51E3C972-ADF3-49C7-9C62-2CD561319097/Bancre%CC%81dito%20Mo%CC%81vil.app/www/index.html#/
+2015-02-05 18:11:22.917 Bancrédito Móvil[6173:278321] CDVPlugin class CDVDevice (pluginName: Device) does not exist.
+2015-02-05 18:11:22.917 Bancrédito Móvil[6173:278321] ERROR: Plugin 'Device' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-05 18:11:22.918 Bancrédito Móvil[6173:278321] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "Device1243690706",
+  "Device",
+  "getDeviceInfo",
+  [
+
+  ]
+]
+2015-02-06 08:51:25.299 Bancrédito Móvil[9270:318106] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/pra/Library/Developer/CoreSimulator/Devices/BE35E635-FFB9-45C0-8E56-95D08F435981/data/Containers/Data/Application/1BD287F5-747F-4047-8B06-6A2810C4C6AC/Library/Cookies/Cookies.binarycookies
+2015-02-06 08:51:25.558 Bancrédito Móvil[9270:318106] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-06 08:51:25.559 Bancrédito Móvil[9270:318106] Multi-tasking -> Device: YES, App: YES
+2015-02-06 08:51:25.579 Bancrédito Móvil[9270:318106] Unlimited access to network resources
+2015-02-06 08:51:26.053 Bancrédito Móvil[9270:318106] CDVPlugin class IonicKeyboard (pluginName: keyboard) does not exist.
+2015-02-06 08:51:26.055 Bancrédito Móvil[9270:318106] [CDVTimer][keyboard] 0.257015ms
+2015-02-06 08:51:26.055 Bancrédito Móvil[9270:318106] [CDVTimer][TotalPluginStartup] 1.739979ms
+2015-02-06 08:51:26.270 Bancrédito Móvil[9270:318106] Resetting plugins due to page load.
+2015-02-06 08:51:26.517 Bancrédito Móvil[9270:318106] Finished load of: file:///Users/pra/Library/Developer/CoreSimulator/Devices/BE35E635-FFB9-45C0-8E56-95D08F435981/data/Containers/Bundle/Application/C2C352FB-F2A1-4EEC-BA55-8239AFA38B86/Bancre%CC%81dito%20Mo%CC%81vil.app/www/index.html#/
+2015-02-06 08:51:26.668 Bancrédito Móvil[9270:318106] CDVPlugin class CDVDevice (pluginName: Device) does not exist.
+2015-02-06 08:51:26.668 Bancrédito Móvil[9270:318106] ERROR: Plugin 'Device' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-06 08:51:26.668 Bancrédito Móvil[9270:318106] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "Device1411569003",
+  "Device",
+  "getDeviceInfo",
+  [
+
+  ]
+]
+2015-02-06 08:51:52.667 Bancrédito Móvil[9270:318106] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-06 08:51:52.667 Bancrédito Móvil[9270:318106] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-06 08:51:52.667 Bancrédito Móvil[9270:318106] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-06 08:52:07.706 Bancrédito Móvil[9270:318106] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-06 08:52:07.706 Bancrédito Móvil[9270:318106] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-06 08:52:07.706 Bancrédito Móvil[9270:318106] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-06 08:52:07.706 Bancrédito Móvil[9270:318106] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-06 08:52:07.706 Bancrédito Móvil[9270:318106] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-06 08:52:07.706 Bancrédito Móvil[9270:318106] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-06 09:17:12.434 Bancrédito Móvil[9270:318106] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-06 09:17:12.436 Bancrédito Móvil[9270:318106] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-06 09:17:12.436 Bancrédito Móvil[9270:318106] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-06 09:17:25.304 Bancrédito Móvil[9270:318106] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-06 09:17:25.304 Bancrédito Móvil[9270:318106] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-06 09:17:25.305 Bancrédito Móvil[9270:318106] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-06 10:35:47.981 Bancrédito Móvil[9584:350624] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/pra/Library/Developer/CoreSimulator/Devices/BE35E635-FFB9-45C0-8E56-95D08F435981/data/Containers/Data/Application/F5BB5326-6770-48D1-A6AC-7D6FE24A9F0D/Library/Cookies/Cookies.binarycookies
+2015-02-06 10:35:48.287 Bancrédito Móvil[9584:350624] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-06 10:35:48.287 Bancrédito Móvil[9584:350624] Multi-tasking -> Device: YES, App: YES
+2015-02-06 10:35:48.304 Bancrédito Móvil[9584:350624] Unlimited access to network resources
+2015-02-06 10:35:48.798 Bancrédito Móvil[9584:350624] CDVPlugin class IonicKeyboard (pluginName: keyboard) does not exist.
+2015-02-06 10:35:48.799 Bancrédito Móvil[9584:350624] [CDVTimer][keyboard] 0.167012ms
+2015-02-06 10:35:48.799 Bancrédito Móvil[9584:350624] [CDVTimer][TotalPluginStartup] 1.100004ms
+2015-02-06 10:35:49.094 Bancrédito Móvil[9584:350624] Resetting plugins due to page load.
+2015-02-06 10:35:49.365 Bancrédito Móvil[9584:350624] Finished load of: file:///Users/pra/Library/Developer/CoreSimulator/Devices/BE35E635-FFB9-45C0-8E56-95D08F435981/data/Containers/Bundle/Application/24D9FA6F-59B5-405F-ADF9-CACE383CBB95/Bancre%CC%81dito%20Mo%CC%81vil.app/www/index.html#/
+2015-02-06 10:35:49.517 Bancrédito Móvil[9584:350624] CDVPlugin class CDVDevice (pluginName: Device) does not exist.
+2015-02-06 10:35:49.517 Bancrédito Móvil[9584:350624] ERROR: Plugin 'Device' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-06 10:35:49.517 Bancrédito Móvil[9584:350624] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "Device131582166",
+  "Device",
+  "getDeviceInfo",
+  [
+
+  ]
+]
+2015-02-06 15:13:40.703 Bancrédito Móvil[10187:414123] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/pra/Library/Developer/CoreSimulator/Devices/BE35E635-FFB9-45C0-8E56-95D08F435981/data/Containers/Data/Application/A16EF680-15ED-4A41-AE42-2A01506E83CA/Library/Cookies/Cookies.binarycookies
+2015-02-06 15:13:41.031 Bancrédito Móvil[10187:414123] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-06 15:13:41.031 Bancrédito Móvil[10187:414123] Multi-tasking -> Device: YES, App: YES
+2015-02-06 15:13:41.056 Bancrédito Móvil[10187:414123] Unlimited access to network resources
+2015-02-06 15:13:41.551 Bancrédito Móvil[10187:414123] CDVPlugin class IonicKeyboard (pluginName: keyboard) does not exist.
+2015-02-06 15:13:41.551 Bancrédito Móvil[10187:414123] [CDVTimer][keyboard] 0.186980ms
+2015-02-06 15:13:41.551 Bancrédito Móvil[10187:414123] [CDVTimer][TotalPluginStartup] 0.370979ms
+2015-02-06 15:13:41.786 Bancrédito Móvil[10187:414123] Resetting plugins due to page load.
+2015-02-06 15:13:42.032 Bancrédito Móvil[10187:414123] Finished load of: file:///Users/pra/Library/Developer/CoreSimulator/Devices/BE35E635-FFB9-45C0-8E56-95D08F435981/data/Containers/Bundle/Application/1CC8B0D4-E1FA-40BB-ADB5-A7D198B2BDD7/Bancre%CC%81dito%20Mo%CC%81vil.app/www/index.html#/
+2015-02-06 15:13:42.179 Bancrédito Móvil[10187:414123] CDVPlugin class CDVDevice (pluginName: Device) does not exist.
+2015-02-06 15:13:42.180 Bancrédito Móvil[10187:414123] ERROR: Plugin 'Device' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-06 15:13:42.180 Bancrédito Móvil[10187:414123] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "Device1815126593",
+  "Device",
+  "getDeviceInfo",
+  [
+
+  ]
+]
+2015-02-06 15:20:21.331 Bancrédito Móvil[10187:414123] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-06 15:20:21.331 Bancrédito Móvil[10187:414123] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-06 15:20:21.331 Bancrédito Móvil[10187:414123] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-06 15:20:31.066 Bancrédito Móvil[10187:414123] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-06 15:20:31.066 Bancrédito Móvil[10187:414123] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-06 15:20:31.066 Bancrédito Móvil[10187:414123] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-06 15:20:49.092 Bancrédito Móvil[10187:414123] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-06 15:20:49.092 Bancrédito Móvil[10187:414123] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-06 15:20:49.092 Bancrédito Móvil[10187:414123] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-06 15:21:40.217 Bancrédito Móvil[10187:414123] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-06 15:21:40.217 Bancrédito Móvil[10187:414123] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-06 15:21:40.218 Bancrédito Móvil[10187:414123] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-06 15:21:40.218 Bancrédito Móvil[10187:414123] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-06 15:21:40.218 Bancrédito Móvil[10187:414123] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-06 15:21:40.218 Bancrédito Móvil[10187:414123] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-06 15:22:58.570 Bancrédito Móvil[10187:414123] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-06 15:22:58.570 Bancrédito Móvil[10187:414123] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-06 15:22:58.570 Bancrédito Móvil[10187:414123] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-06 15:23:45.231 Bancrédito Móvil[10187:414123] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-06 15:23:45.231 Bancrédito Móvil[10187:414123] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-06 15:23:45.231 Bancrédito Móvil[10187:414123] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-06 15:23:50.442 Bancrédito Móvil[10187:414123] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-06 15:23:50.442 Bancrédito Móvil[10187:414123] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-06 15:23:50.443 Bancrédito Móvil[10187:414123] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-06 15:26:07.540 Bancrédito Móvil[10187:414123] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-06 15:26:07.540 Bancrédito Móvil[10187:414123] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-06 15:26:07.540 Bancrédito Móvil[10187:414123] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-06 15:28:56.995 Bancrédito Móvil[10187:414123] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-06 15:28:56.995 Bancrédito Móvil[10187:414123] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-06 15:28:56.995 Bancrédito Móvil[10187:414123] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-06 15:28:57.697 Bancrédito Móvil[10187:414123] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-06 15:28:57.697 Bancrédito Móvil[10187:414123] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-06 15:28:57.697 Bancrédito Móvil[10187:414123] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-06 15:29:00.090 Bancrédito Móvil[10187:414123] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-06 15:29:00.090 Bancrédito Móvil[10187:414123] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-06 15:29:00.090 Bancrédito Móvil[10187:414123] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-06 15:29:50.187 Bancrédito Móvil[10187:414123] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-06 15:29:50.187 Bancrédito Móvil[10187:414123] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-06 15:29:50.187 Bancrédito Móvil[10187:414123] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-06 15:45:47.102 Bancrédito Móvil[10187:414123] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-06 15:45:47.102 Bancrédito Móvil[10187:414123] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-06 15:45:47.102 Bancrédito Móvil[10187:414123] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-06 15:45:48.510 Bancrédito Móvil[10187:414123] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-06 15:45:48.510 Bancrédito Móvil[10187:414123] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-06 15:45:48.510 Bancrédito Móvil[10187:414123] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-06 15:46:04.283 Bancrédito Móvil[10187:414123] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-06 15:46:04.283 Bancrédito Móvil[10187:414123] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-06 15:46:04.284 Bancrédito Móvil[10187:414123] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-06 15:47:37.516 Bancrédito Móvil[10187:414123] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-06 15:47:37.516 Bancrédito Móvil[10187:414123] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-06 15:47:37.516 Bancrédito Móvil[10187:414123] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-06 15:48:27.760 Bancrédito Móvil[10187:414123] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-06 15:48:27.761 Bancrédito Móvil[10187:414123] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-06 15:48:27.761 Bancrédito Móvil[10187:414123] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-06 15:48:43.133 Bancrédito Móvil[10187:414123] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-06 15:48:43.133 Bancrédito Móvil[10187:414123] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-06 15:48:43.133 Bancrédito Móvil[10187:414123] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-06 15:48:51.150 Bancrédito Móvil[10187:414123] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-06 15:48:51.150 Bancrédito Móvil[10187:414123] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-06 15:48:51.150 Bancrédito Móvil[10187:414123] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-06 15:48:55.326 Bancrédito Móvil[10187:414123] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-06 15:48:55.326 Bancrédito Móvil[10187:414123] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-06 15:48:55.326 Bancrédito Móvil[10187:414123] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-06 15:49:22.472 Bancrédito Móvil[10187:414123] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-06 15:49:22.472 Bancrédito Móvil[10187:414123] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-06 15:49:22.472 Bancrédito Móvil[10187:414123] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-06 15:49:44.294 Bancrédito Móvil[10187:414123] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-06 15:49:44.294 Bancrédito Móvil[10187:414123] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-06 15:49:44.294 Bancrédito Móvil[10187:414123] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-06 15:50:06.802 Bancrédito Móvil[10187:414123] Resetting plugins due to page load.
+2015-02-06 15:50:06.806 Bancrédito Móvil[10187:414123] Failed to load webpage with error: Frame load interrupted
+2015-02-06 15:50:08.238 Bancrédito Móvil[10187:414123] Resetting plugins due to page load.
+2015-02-06 15:50:08.239 Bancrédito Móvil[10187:414123] Failed to load webpage with error: Frame load interrupted
+2015-02-06 15:50:11.977 Bancrédito Móvil[10187:414123] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-06 15:50:11.977 Bancrédito Móvil[10187:414123] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-06 15:50:11.977 Bancrédito Móvil[10187:414123] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-06 15:51:00.033 Bancrédito Móvil[10187:414123] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-06 15:51:00.033 Bancrédito Móvil[10187:414123] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-06 15:51:00.034 Bancrédito Móvil[10187:414123] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-06 15:51:17.387 Bancrédito Móvil[10187:414123] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-06 15:51:17.387 Bancrédito Móvil[10187:414123] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-06 15:51:17.387 Bancrédito Móvil[10187:414123] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-06 15:52:01.878 Bancrédito Móvil[10187:414123] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-06 15:52:01.878 Bancrédito Móvil[10187:414123] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-06 15:52:01.878 Bancrédito Móvil[10187:414123] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-06 15:52:17.917 Bancrédito Móvil[10187:414123] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-06 15:52:17.918 Bancrédito Móvil[10187:414123] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-06 15:52:17.918 Bancrédito Móvil[10187:414123] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-06 15:53:05.732 Bancrédito Móvil[10187:414123] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-06 15:53:05.732 Bancrédito Móvil[10187:414123] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-06 15:53:05.732 Bancrédito Móvil[10187:414123] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-06 15:53:12.404 Bancrédito Móvil[10187:414123] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-06 15:53:12.404 Bancrédito Móvil[10187:414123] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-06 15:53:12.405 Bancrédito Móvil[10187:414123] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-06 15:58:10.960 Bancrédito Móvil[10187:414123] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-06 15:58:10.961 Bancrédito Móvil[10187:414123] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-06 15:58:10.961 Bancrédito Móvil[10187:414123] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-06 15:58:59.910 Bancrédito Móvil[10367:423624] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/pra/Library/Developer/CoreSimulator/Devices/BE35E635-FFB9-45C0-8E56-95D08F435981/data/Containers/Data/Application/9AC1E1C2-3F26-418A-B8AC-83B90E067805/Library/Cookies/Cookies.binarycookies
+2015-02-06 15:59:00.002 Bancrédito Móvil[10367:423624] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-06 15:59:00.003 Bancrédito Móvil[10367:423624] Multi-tasking -> Device: YES, App: YES
+2015-02-06 15:59:00.005 Bancrédito Móvil[10367:423624] Unlimited access to network resources
+2015-02-06 15:59:00.174 Bancrédito Móvil[10367:423624] CDVPlugin class IonicKeyboard (pluginName: keyboard) does not exist.
+2015-02-06 15:59:00.174 Bancrédito Móvil[10367:423624] [CDVTimer][keyboard] 0.156999ms
+2015-02-06 15:59:00.174 Bancrédito Móvil[10367:423624] [CDVTimer][TotalPluginStartup] 0.315011ms
+2015-02-06 15:59:00.233 Bancrédito Móvil[10367:423624] Resetting plugins due to page load.
+2015-02-06 15:59:00.404 Bancrédito Móvil[10367:423624] Finished load of: file:///Users/pra/Library/Developer/CoreSimulator/Devices/BE35E635-FFB9-45C0-8E56-95D08F435981/data/Containers/Bundle/Application/FFB0E7BA-31EF-49C2-9C8E-3768E886309C/Bancre%CC%81dito%20Mo%CC%81vil.app/www/index.html#/
+2015-02-06 15:59:00.532 Bancrédito Móvil[10367:423624] CDVPlugin class CDVDevice (pluginName: Device) does not exist.
+2015-02-06 15:59:00.532 Bancrédito Móvil[10367:423624] ERROR: Plugin 'Device' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-06 15:59:00.532 Bancrédito Móvil[10367:423624] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "Device743857484",
+  "Device",
+  "getDeviceInfo",
+  [
+
+  ]
+]
+2015-02-06 15:59:12.568 Bancrédito Móvil[10507:424105] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/pra/Library/Developer/CoreSimulator/Devices/BE35E635-FFB9-45C0-8E56-95D08F435981/data/Containers/Data/Application/8F8AF2A3-C450-4A4C-B437-D657800B1A08/Library/Cookies/Cookies.binarycookies
+2015-02-06 15:59:12.653 Bancrédito Móvil[10507:424105] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-06 15:59:12.653 Bancrédito Móvil[10507:424105] Multi-tasking -> Device: YES, App: YES
+2015-02-06 15:59:12.655 Bancrédito Móvil[10507:424105] Unlimited access to network resources
+2015-02-06 15:59:12.829 Bancrédito Móvil[10507:424105] CDVPlugin class IonicKeyboard (pluginName: keyboard) does not exist.
+2015-02-06 15:59:12.829 Bancrédito Móvil[10507:424105] [CDVTimer][keyboard] 0.158012ms
+2015-02-06 15:59:12.829 Bancrédito Móvil[10507:424105] [CDVTimer][TotalPluginStartup] 0.311971ms
+2015-02-06 15:59:12.878 Bancrédito Móvil[10507:424105] Resetting plugins due to page load.
+2015-02-06 15:59:13.027 Bancrédito Móvil[10507:424105] Finished load of: file:///Users/pra/Library/Developer/CoreSimulator/Devices/BE35E635-FFB9-45C0-8E56-95D08F435981/data/Containers/Bundle/Application/D6A9FB28-02AE-411E-871B-4D50AC09A763/Bancre%CC%81dito%20Mo%CC%81vil.app/www/index.html#/
+2015-02-06 15:59:13.179 Bancrédito Móvil[10507:424105] CDVPlugin class CDVDevice (pluginName: Device) does not exist.
+2015-02-06 15:59:13.180 Bancrédito Móvil[10507:424105] ERROR: Plugin 'Device' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-06 15:59:13.180 Bancrédito Móvil[10507:424105] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "Device1280441197",
+  "Device",
+  "getDeviceInfo",
+  [
+
+  ]
+]
+2015-02-12 17:32:39.295 Bancrédito Móvil[3529:447078] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/pra/Library/Developer/CoreSimulator/Devices/BE35E635-FFB9-45C0-8E56-95D08F435981/data/Containers/Data/Application/470C124C-F9DB-438E-9164-8CC51C3F8F37/Library/Cookies/Cookies.binarycookies
+2015-02-12 17:32:39.553 Bancrédito Móvil[3529:447078] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-12 17:32:39.553 Bancrédito Móvil[3529:447078] Multi-tasking -> Device: YES, App: YES
+2015-02-12 17:32:39.566 Bancrédito Móvil[3529:447078] Unlimited access to network resources
+2015-02-12 17:32:39.996 Bancrédito Móvil[3529:447078] CDVPlugin class IonicKeyboard (pluginName: keyboard) does not exist.
+2015-02-12 17:32:39.997 Bancrédito Móvil[3529:447078] [CDVTimer][keyboard] 0.155985ms
+2015-02-12 17:32:39.997 Bancrédito Móvil[3529:447078] [CDVTimer][TotalPluginStartup] 0.303030ms
+2015-02-12 17:32:40.278 Bancrédito Móvil[3529:447078] Resetting plugins due to page load.
+2015-02-12 17:32:40.551 Bancrédito Móvil[3529:447078] Finished load of: file:///Users/pra/Library/Developer/CoreSimulator/Devices/BE35E635-FFB9-45C0-8E56-95D08F435981/data/Containers/Bundle/Application/91A3EA60-3F4B-4E23-BDC4-38EF29F71C32/Bancre%CC%81dito%20Mo%CC%81vil.app/www/index.html#/
+2015-02-12 17:32:40.613 Bancrédito Móvil[3529:447078] CDVPlugin class CDVDevice (pluginName: Device) does not exist.
+2015-02-12 17:32:40.613 Bancrédito Móvil[3529:447078] ERROR: Plugin 'Device' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-12 17:32:40.613 Bancrédito Móvil[3529:447078] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "Device101401339",
+  "Device",
+  "getDeviceInfo",
+  [
+
+  ]
+]
+2015-02-12 17:32:42.905 Bancrédito Móvil[3529:447078] Resetting plugins due to page load.
+2015-02-12 17:32:42.953 Bancrédito Móvil[3529:447078] Finished load of: file:///Users/pra/Library/Developer/CoreSimulator/Devices/BE35E635-FFB9-45C0-8E56-95D08F435981/data/Containers/Bundle/Application/91A3EA60-3F4B-4E23-BDC4-38EF29F71C32/Bancre%CC%81dito%20Mo%CC%81vil.app/www/index.html?#/
+2015-02-12 17:32:42.975 Bancrédito Móvil[3529:447078] CDVPlugin class CDVDevice (pluginName: Device) does not exist.
+2015-02-12 17:32:42.976 Bancrédito Móvil[3529:447078] ERROR: Plugin 'Device' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-12 17:32:42.976 Bancrédito Móvil[3529:447078] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "Device1125402412",
+  "Device",
+  "getDeviceInfo",
+  [
+
+  ]
+]
+2015-02-12 17:44:54.524 Bancrédito Móvil[3822:452012] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/pra/Library/Developer/CoreSimulator/Devices/BE35E635-FFB9-45C0-8E56-95D08F435981/data/Containers/Data/Application/9C43B61C-E1CF-4152-B2D8-8CA5282B9230/Library/Cookies/Cookies.binarycookies
+2015-02-12 17:44:54.747 Bancrédito Móvil[3822:452012] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-12 17:44:54.747 Bancrédito Móvil[3822:452012] Multi-tasking -> Device: YES, App: YES
+2015-02-12 17:44:54.759 Bancrédito Móvil[3822:452012] Unlimited access to network resources
+2015-02-12 17:44:55.183 Bancrédito Móvil[3822:452012] CDVPlugin class IonicKeyboard (pluginName: keyboard) does not exist.
+2015-02-12 17:44:55.184 Bancrédito Móvil[3822:452012] [CDVTimer][keyboard] 0.156999ms
+2015-02-12 17:44:55.184 Bancrédito Móvil[3822:452012] [CDVTimer][TotalPluginStartup] 0.657976ms
+2015-02-12 17:44:55.402 Bancrédito Móvil[3822:452012] Resetting plugins due to page load.
+2015-02-12 17:44:55.627 Bancrédito Móvil[3822:452012] Finished load of: file:///Users/pra/Library/Developer/CoreSimulator/Devices/BE35E635-FFB9-45C0-8E56-95D08F435981/data/Containers/Bundle/Application/2460E580-DE93-4C7C-A919-3F20E3489250/Bancre%CC%81dito%20Mo%CC%81vil.app/www/index.html#/
+2015-02-12 17:44:55.774 Bancrédito Móvil[3822:452012] CDVPlugin class CDVDevice (pluginName: Device) does not exist.
+2015-02-12 17:44:55.774 Bancrédito Móvil[3822:452012] ERROR: Plugin 'Device' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-12 17:44:55.774 Bancrédito Móvil[3822:452012] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "Device1256691483",
+  "Device",
+  "getDeviceInfo",
+  [
+
+  ]
+]
+2015-02-12 17:45:04.274 Bancrédito Móvil[3822:452012] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-12 17:45:04.274 Bancrédito Móvil[3822:452012] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-12 17:45:04.274 Bancrédito Móvil[3822:452012] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-12 17:47:18.621 Bancrédito Móvil[4083:453843] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/pra/Library/Developer/CoreSimulator/Devices/BE35E635-FFB9-45C0-8E56-95D08F435981/data/Containers/Data/Application/FAC3B537-4602-4CC7-80CD-9C8023433787/Library/Cookies/Cookies.binarycookies
+2015-02-12 17:47:18.713 Bancrédito Móvil[4083:453843] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-12 17:47:18.713 Bancrédito Móvil[4083:453843] Multi-tasking -> Device: YES, App: YES
+2015-02-12 17:47:18.714 Bancrédito Móvil[4083:453843] Unlimited access to network resources
+2015-02-12 17:47:18.892 Bancrédito Móvil[4083:453843] CDVPlugin class IonicKeyboard (pluginName: keyboard) does not exist.
+2015-02-12 17:47:18.892 Bancrédito Móvil[4083:453843] [CDVTimer][keyboard] 0.160038ms
+2015-02-12 17:47:18.892 Bancrédito Móvil[4083:453843] [CDVTimer][TotalPluginStartup] 0.312984ms
+2015-02-12 17:47:18.991 Bancrédito Móvil[4083:453843] Resetting plugins due to page load.
+2015-02-12 17:47:19.162 Bancrédito Móvil[4083:453843] Finished load of: file:///Users/pra/Library/Developer/CoreSimulator/Devices/BE35E635-FFB9-45C0-8E56-95D08F435981/data/Containers/Bundle/Application/1E09BBD1-FA70-4F1E-BECB-5B96E7610E4B/Bancre%CC%81dito%20Mo%CC%81vil.app/www/index.html#/
+2015-02-12 17:47:19.282 Bancrédito Móvil[4083:453843] CDVPlugin class CDVDevice (pluginName: Device) does not exist.
+2015-02-12 17:47:19.282 Bancrédito Móvil[4083:453843] ERROR: Plugin 'Device' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-12 17:47:19.282 Bancrédito Móvil[4083:453843] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "Device869066459",
+  "Device",
+  "getDeviceInfo",
+  [
+
+  ]
+]
+2015-02-12 17:47:20.509 Bancrédito Móvil[4083:453843] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-12 17:47:20.509 Bancrédito Móvil[4083:453843] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-12 17:47:20.509 Bancrédito Móvil[4083:453843] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-24 08:30:35.524 Bancrédito Móvil[11376:1241919] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/pra/Library/Developer/CoreSimulator/Devices/BE35E635-FFB9-45C0-8E56-95D08F435981/data/Containers/Data/Application/C2B8E379-3FC6-402B-B8E0-F2E854119EAA/Library/Cookies/Cookies.binarycookies
+2015-02-24 08:30:35.801 Bancrédito Móvil[11376:1241919] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-24 08:30:35.801 Bancrédito Móvil[11376:1241919] Multi-tasking -> Device: YES, App: YES
+2015-02-24 08:30:35.817 Bancrédito Móvil[11376:1241919] Unlimited access to network resources
+2015-02-24 08:30:36.245 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: keyboard) does not exist.
+2015-02-24 08:30:36.245 Bancrédito Móvil[11376:1241919] [CDVTimer][keyboard] 0.194013ms
+2015-02-24 08:30:36.245 Bancrédito Móvil[11376:1241919] [CDVTimer][TotalPluginStartup] 0.379980ms
+2015-02-24 08:30:36.469 Bancrédito Móvil[11376:1241919] Resetting plugins due to page load.
+2015-02-24 08:30:36.724 Bancrédito Móvil[11376:1241919] Finished load of: file:///Users/pra/Library/Developer/CoreSimulator/Devices/BE35E635-FFB9-45C0-8E56-95D08F435981/data/Containers/Bundle/Application/ED414F88-C3C5-4619-87B1-6547C835BCF0/Bancre%CC%81dito%20Mo%CC%81vil.app/www/index.html#/
+2015-02-24 08:30:36.867 Bancrédito Móvil[11376:1241919] CDVPlugin class CDVDevice (pluginName: Device) does not exist.
+2015-02-24 08:30:36.867 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Device' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-24 08:30:36.867 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "Device660385776",
+  "Device",
+  "getDeviceInfo",
+  [
+
+  ]
+]
+2015-02-24 09:05:27.741 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-24 09:05:27.751 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-24 09:05:27.751 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-24 09:06:22.880 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-24 09:06:22.880 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-24 09:06:22.880 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-24 09:06:22.880 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-24 09:06:22.881 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-24 09:06:22.881 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-24 09:20:09.814 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-24 09:20:09.814 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-24 09:20:09.814 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-24 09:22:11.502 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-24 09:22:11.502 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-24 09:22:11.503 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-24 09:32:02.645 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-24 09:32:02.646 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-24 09:32:02.646 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-24 09:32:02.646 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-24 09:32:02.646 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-24 09:32:02.646 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-24 09:51:04.301 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-24 09:51:04.301 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-24 09:51:04.301 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-24 09:51:08.364 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-24 09:51:08.364 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-24 09:51:08.364 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-24 09:51:41.183 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-24 09:51:41.184 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-24 09:51:41.184 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-24 09:51:46.181 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-24 09:51:46.181 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-24 09:51:46.181 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-24 09:51:52.266 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-24 09:51:52.267 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-24 09:51:52.267 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-24 09:51:56.051 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-24 09:51:56.051 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-24 09:51:56.051 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-24 09:51:57.911 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-24 09:51:57.911 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-24 09:51:57.911 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-24 09:51:57.912 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-24 09:51:57.912 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-24 09:51:57.912 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-24 09:52:01.093 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-24 09:52:01.094 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-24 09:52:01.094 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-24 09:52:02.079 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-24 09:52:02.079 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-24 09:52:02.080 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-24 09:52:08.227 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-24 09:52:08.227 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-24 09:52:08.227 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-24 09:52:30.739 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-24 09:52:30.739 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-24 09:52:30.740 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-24 09:54:39.895 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-24 09:54:39.895 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-24 09:54:39.895 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-24 09:54:42.041 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-24 09:54:42.041 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-24 09:54:42.041 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-24 10:09:09.950 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-24 10:09:09.951 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-24 10:09:09.951 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-24 10:09:12.167 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-24 10:09:12.167 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-24 10:09:12.167 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-24 10:09:15.005 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-24 10:09:15.005 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-24 10:09:15.005 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-24 10:09:16.946 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-24 10:09:16.946 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-24 10:09:16.946 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-24 10:09:26.202 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-24 10:09:26.202 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-24 10:09:26.203 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-24 10:15:51.845 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-24 10:15:51.846 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-24 10:15:51.846 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-24 10:17:14.101 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-24 10:17:14.102 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-24 10:17:14.102 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-24 10:18:56.932 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-24 10:18:56.933 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-24 10:18:56.933 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-24 10:19:05.746 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-24 10:19:05.746 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-24 10:19:05.746 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-24 10:22:02.426 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-24 10:22:02.426 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-24 10:22:02.426 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-24 10:22:03.662 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-24 10:22:03.662 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-24 10:22:03.662 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-24 10:40:05.638 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-24 10:40:05.638 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-24 10:40:05.638 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-24 10:40:07.047 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-24 10:40:07.047 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-24 10:40:07.047 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-24 11:15:10.853 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-24 11:15:10.854 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-24 11:15:10.854 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-25 14:03:34.875 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-25 14:03:34.881 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-25 14:03:34.881 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-25 14:05:26.780 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-25 14:05:26.780 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-25 14:05:26.780 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-25 14:05:45.835 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-25 14:05:45.836 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-25 14:05:45.837 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-25 14:42:52.089 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-25 14:42:52.090 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-25 14:42:52.090 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-25 14:42:55.616 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-25 14:42:55.616 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-25 14:42:55.616 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-25 14:42:57.427 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-25 14:42:57.427 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-25 14:42:57.428 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-25 14:43:00.213 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-25 14:43:00.213 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-25 14:43:00.213 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-25 14:43:05.243 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-25 14:43:05.243 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-25 14:43:05.243 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-25 14:43:06.732 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-25 14:43:06.733 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-25 14:43:06.733 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-25 14:43:07.904 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-25 14:43:07.904 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-25 14:43:07.904 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-25 14:43:09.441 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-25 14:43:09.441 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-25 14:43:09.441 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-25 14:43:11.290 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-25 14:43:11.291 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-25 14:43:11.291 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-25 14:43:16.809 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-25 14:43:16.809 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-25 14:43:16.809 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-25 14:43:27.120 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-25 14:43:27.121 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-25 14:43:27.121 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-25 15:02:45.676 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-25 15:02:45.677 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-25 15:02:45.678 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-25 15:03:38.777 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-25 15:03:38.778 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-25 15:03:38.778 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-25 15:11:55.806 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-25 15:11:55.807 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-25 15:11:55.807 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-25 15:12:25.789 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-25 15:12:25.789 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-25 15:12:25.789 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-25 15:13:13.282 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-25 15:13:13.282 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-25 15:13:13.282 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-25 15:13:48.260 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-25 15:13:48.260 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-25 15:13:48.260 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-25 15:15:21.276 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-25 15:15:21.276 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-25 15:15:21.276 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-25 15:16:24.871 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-25 15:16:24.871 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-25 15:16:24.871 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-25 15:21:13.599 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-25 15:21:13.599 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-25 15:21:13.599 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-25 15:25:50.389 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-25 15:25:50.389 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-25 15:25:50.389 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-25 15:25:52.243 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-25 15:25:52.243 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-25 15:25:52.243 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-25 15:26:32.796 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-25 15:26:32.796 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-25 15:26:32.796 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-25 15:27:13.045 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-25 15:27:13.045 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-25 15:27:13.045 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-25 15:27:44.397 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-25 15:27:44.397 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-25 15:27:44.397 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-25 15:27:46.875 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-25 15:27:46.875 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-25 15:27:46.875 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-25 15:28:04.021 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-25 15:28:04.021 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-25 15:28:04.021 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-25 15:28:53.820 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-25 15:28:53.821 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-25 15:28:53.821 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-25 15:32:18.486 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-25 15:32:18.486 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-25 15:32:18.487 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-25 16:04:32.151 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-25 16:04:32.152 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-25 16:04:32.152 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-25 16:28:12.056 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-25 16:28:12.057 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-25 16:28:12.057 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-25 16:28:37.938 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-25 16:28:37.939 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-25 16:28:37.939 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-25 16:38:58.488 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-25 16:38:58.490 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-25 16:38:58.490 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-25 16:39:01.634 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-25 16:39:01.634 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-25 16:39:01.634 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-25 16:39:03.159 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-25 16:39:03.159 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-25 16:39:03.159 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-25 16:43:30.706 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-25 16:43:30.707 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-25 16:43:30.707 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-25 16:43:32.702 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-25 16:43:32.702 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-25 16:43:32.702 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-25 16:43:32.703 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-25 16:43:32.704 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-25 16:43:32.704 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-25 16:43:43.244 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-25 16:43:43.244 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-25 16:43:43.244 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-25 16:56:22.255 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-25 16:56:22.256 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-25 16:56:22.256 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-25 16:56:24.226 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-25 16:56:24.226 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-25 16:56:24.227 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-25 16:56:37.620 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-25 16:56:37.621 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-25 16:56:37.621 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-25 16:57:00.558 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-25 16:57:00.558 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-25 16:57:00.558 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-25 17:07:13.849 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-25 17:07:13.850 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-25 17:07:13.850 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-25 17:12:53.289 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-25 17:12:53.289 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-25 17:12:53.289 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-25 17:12:55.548 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-25 17:12:55.548 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-25 17:12:55.548 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-25 17:13:01.455 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-25 17:13:01.456 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-25 17:13:01.456 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-25 17:13:04.249 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-25 17:13:04.249 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-25 17:13:04.249 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-25 17:13:07.764 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-25 17:13:07.764 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-25 17:13:07.764 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-25 17:13:09.947 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-25 17:13:09.947 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-25 17:13:09.947 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-25 17:13:11.867 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-25 17:13:11.868 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-25 17:13:11.868 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-25 17:13:13.922 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-25 17:13:13.922 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-25 17:13:13.922 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-25 17:13:17.192 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-25 17:13:17.192 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-25 17:13:17.192 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-25 17:13:31.150 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-25 17:13:31.150 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-25 17:13:31.151 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-25 17:25:38.116 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-25 17:25:38.117 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-25 17:25:38.117 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-26 11:14:01.529 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-26 11:14:01.534 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-26 11:14:01.534 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-26 11:37:50.236 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-26 11:37:50.236 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-26 11:37:50.236 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-26 11:37:51.421 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-26 11:37:51.422 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-26 11:37:51.422 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-26 11:37:51.423 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-26 11:37:51.423 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-26 11:37:51.423 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-26 12:44:23.091 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-26 12:44:23.091 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-26 12:44:23.091 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-26 12:44:24.354 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-26 12:44:24.354 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-26 12:44:24.354 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-26 12:44:28.166 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-26 12:44:28.166 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-26 12:44:28.167 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-02-26 12:45:00.560 Bancrédito Móvil[11376:1241919] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-02-26 12:45:00.560 Bancrédito Móvil[11376:1241919] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-02-26 12:45:00.561 Bancrédito Móvil[11376:1241919] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-03-10 09:06:52.408 Bancrédito Móvil[1663:140357] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/pra/Library/Developer/CoreSimulator/Devices/BE35E635-FFB9-45C0-8E56-95D08F435981/data/Containers/Data/Application/D9FD9320-DA9F-49E1-A6F8-8464302CC325/Library/Cookies/Cookies.binarycookies
+2015-03-10 09:06:52.660 Bancrédito Móvil[1663:140357] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-10 09:06:52.660 Bancrédito Móvil[1663:140357] Multi-tasking -> Device: YES, App: YES
+2015-03-10 09:06:52.673 Bancrédito Móvil[1663:140357] Unlimited access to network resources
+2015-03-10 09:06:53.083 Bancrédito Móvil[1663:140357] CDVPlugin class IonicKeyboard (pluginName: keyboard) does not exist.
+2015-03-10 09:06:53.083 Bancrédito Móvil[1663:140357] [CDVTimer][keyboard] 0.155985ms
+2015-03-10 09:06:53.083 Bancrédito Móvil[1663:140357] [CDVTimer][TotalPluginStartup] 0.302017ms
+2015-03-10 09:06:53.359 Bancrédito Móvil[1663:140357] Resetting plugins due to page load.
+2015-03-10 09:06:53.628 Bancrédito Móvil[1663:140357] Finished load of: file:///Users/pra/Library/Developer/CoreSimulator/Devices/BE35E635-FFB9-45C0-8E56-95D08F435981/data/Containers/Bundle/Application/391D219F-DFEC-4D18-A0B5-DC30D780CAE8/Bancre%CC%81dito%20Mo%CC%81vil.app/www/index.html#/
+2015-03-10 09:06:53.762 Bancrédito Móvil[1663:140357] CDVPlugin class CDVDevice (pluginName: Device) does not exist.
+2015-03-10 09:06:53.762 Bancrédito Móvil[1663:140357] ERROR: Plugin 'Device' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-03-10 09:06:53.763 Bancrédito Móvil[1663:140357] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "Device1998294221",
+  "Device",
+  "getDeviceInfo",
+  [
+
+  ]
+]
+2015-03-10 10:08:52.466 Bancrédito Móvil[1663:140357] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-03-10 10:08:52.470 Bancrédito Móvil[1663:140357] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-03-10 10:08:52.470 Bancrédito Móvil[1663:140357] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-03-10 10:08:53.903 Bancrédito Móvil[1663:140357] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-03-10 10:08:53.903 Bancrédito Móvil[1663:140357] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-03-10 10:08:53.904 Bancrédito Móvil[1663:140357] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-03-10 10:08:53.904 Bancrédito Móvil[1663:140357] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-03-10 10:08:53.904 Bancrédito Móvil[1663:140357] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-03-10 10:08:53.904 Bancrédito Móvil[1663:140357] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-03-10 10:09:06.625 Bancrédito Móvil[1663:140357] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-03-10 10:09:06.625 Bancrédito Móvil[1663:140357] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-03-10 10:09:06.625 Bancrédito Móvil[1663:140357] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-03-10 10:10:17.921 Bancrédito Móvil[1663:140357] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-03-10 10:10:17.921 Bancrédito Móvil[1663:140357] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-03-10 10:10:17.921 Bancrédito Móvil[1663:140357] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-03-10 10:11:17.218 Bancrédito Móvil[1663:140357] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-03-10 10:11:17.219 Bancrédito Móvil[1663:140357] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-03-10 10:11:17.219 Bancrédito Móvil[1663:140357] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-03-10 10:13:40.827 Bancrédito Móvil[1663:140357] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-03-10 10:13:40.827 Bancrédito Móvil[1663:140357] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-03-10 10:13:40.827 Bancrédito Móvil[1663:140357] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-03-10 10:13:42.775 Bancrédito Móvil[1663:140357] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-03-10 10:13:42.775 Bancrédito Móvil[1663:140357] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-03-10 10:13:42.775 Bancrédito Móvil[1663:140357] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-03-10 10:21:31.274 Bancrédito Móvil[1663:140357] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-03-10 10:21:31.275 Bancrédito Móvil[1663:140357] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-03-10 10:21:31.275 Bancrédito Móvil[1663:140357] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-03-10 10:21:34.474 Bancrédito Móvil[1663:140357] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-03-10 10:21:34.475 Bancrédito Móvil[1663:140357] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-03-10 10:21:34.475 Bancrédito Móvil[1663:140357] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-03-10 10:43:55.420 Bancrédito Móvil[1663:140357] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-03-10 10:43:55.422 Bancrédito Móvil[1663:140357] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-03-10 10:43:55.422 Bancrédito Móvil[1663:140357] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-03-10 10:47:13.536 Bancrédito Móvil[1663:140357] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-03-10 10:47:13.536 Bancrédito Móvil[1663:140357] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-03-10 10:47:13.536 Bancrédito Móvil[1663:140357] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-03-10 11:13:27.027 Bancrédito Móvil[1663:140357] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-03-10 11:13:27.027 Bancrédito Móvil[1663:140357] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-03-10 11:13:27.027 Bancrédito Móvil[1663:140357] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-03-10 11:21:52.245 Bancrédito Móvil[1663:140357] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-03-10 11:21:52.245 Bancrédito Móvil[1663:140357] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-03-10 11:21:52.245 Bancrédito Móvil[1663:140357] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-03-10 11:21:53.171 Bancrédito Móvil[1663:140357] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-03-10 11:21:53.171 Bancrédito Móvil[1663:140357] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-03-10 11:21:53.171 Bancrédito Móvil[1663:140357] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-03-10 11:21:53.171 Bancrédito Móvil[1663:140357] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-03-10 11:21:53.171 Bancrédito Móvil[1663:140357] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-03-10 11:21:53.171 Bancrédito Móvil[1663:140357] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-03-10 11:21:54.385 Bancrédito Móvil[1663:140357] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-03-10 11:21:54.386 Bancrédito Móvil[1663:140357] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-03-10 11:21:54.386 Bancrédito Móvil[1663:140357] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-03-10 11:21:55.796 Bancrédito Móvil[1663:140357] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-03-10 11:21:55.796 Bancrédito Móvil[1663:140357] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-03-10 11:21:55.796 Bancrédito Móvil[1663:140357] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-03-10 11:27:01.642 Bancrédito Móvil[1663:140357] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-03-10 11:27:01.642 Bancrédito Móvil[1663:140357] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-03-10 11:27:01.642 Bancrédito Móvil[1663:140357] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-03-10 11:27:02.487 Bancrédito Móvil[1663:140357] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-03-10 11:27:02.487 Bancrédito Móvil[1663:140357] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-03-10 11:27:02.487 Bancrédito Móvil[1663:140357] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-03-10 11:38:47.295 Bancrédito Móvil[1663:140357] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-03-10 11:38:47.296 Bancrédito Móvil[1663:140357] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-03-10 11:38:47.296 Bancrédito Móvil[1663:140357] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]
+2015-03-10 11:43:44.981 Bancrédito Móvil[1663:140357] CDVPlugin class IonicKeyboard (pluginName: Keyboard) does not exist.
+2015-03-10 11:43:44.981 Bancrédito Móvil[1663:140357] ERROR: Plugin 'Keyboard' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-03-10 11:43:44.982 Bancrédito Móvil[1663:140357] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "Keyboard",
+  "close",
+  [
+
+  ]
+]

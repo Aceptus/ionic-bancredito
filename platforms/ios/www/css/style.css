@@ -1,0 +1,18 @@
+/* Empty. Add your own CSS if you like */
+.small-text {
+	font-size: 0.9em;
+}
+.smaller-text {
+	font-size: 0.8em;
+}
+.text-center {
+	text-align: center;
+}
+.footer-text {
+	margin: 0 auto;
+	line-height: 1.5em;
+	text-align: center;
+}
+.movimientos .item{
+	padding: 0 16px;
+}

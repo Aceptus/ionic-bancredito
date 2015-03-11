@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Applications/MAMP/htdocs/ionic-bancredito/platforms/android/org.apache.cordova.engine.crosswalk/ionicbancredito537012-xwalk_core_library/assets"/></dataSet><dataSet config="release"><source path="/Applications/MAMP/htdocs/ionic-bancredito/platforms/android/org.apache.cordova.engine.crosswalk/ionicbancredito537012-xwalk_core_library/src/release/assets"/></dataSet></merger>

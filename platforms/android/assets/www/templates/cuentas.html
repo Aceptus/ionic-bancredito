@@ -1,0 +1,59 @@
+<ion-view title="Cuentas">
+  <ion-content>
+    <div class="list">
+      <div class="item item-divider">
+        Cuentas Bancarias
+      </div>
+
+      <ion-item ng-repeat="cuenta in cuentas" class="item-saldo item-icon-right" href="#/app/cuentas/{{cuenta.id}}">
+        <i class="icon ion-chevron-right balanced"></i>
+        <h3># {{cuenta.id}} - <span class="positive">{{cuenta.tipo}}</span></h3>
+        <div class="row">
+          <div class="col-50 text-right">
+            {{saldoMoneda(cuenta.saldo, cuenta.moneda)}}
+          </div>
+        </div>
+      </ion-item>
+
+      <div class="item item-divider">
+        Monedero Electrónico
+      </div>
+      <ion-item ng-repeat="monedero in monederos" class="item-saldo item-icon-right" href="#/app/monedero/{{monedero.id}}">
+        <i class="icon ion-chevron-right balanced"></i>
+        <h3># {{monedero.id}} - <span class="positive">{{monedero.alias}}</span></h3>
+        <div class="col-50 text-right">
+          {{monedero.saldo | currency:"¢ "}}
+        </div>
+      </ion-item>
+<!--
+      <div class="item item-divider">
+        Tarjetas de Crédito
+      </div>
+      <ion-item ng-repeat="tarjeta in tarjetas" class="item-saldo item-icon-right" href="#/app/tarjeta/{{tarjeta.id}}">
+        <i class="icon ion-chevron-right balanced"></i>
+        <h3>**** **** **** {{tarjeta.id}} - <span class="positive">{{tarjeta.tipo}}</span></h3>
+
+        <div ng-repeat="disponible in tarjeta.disponibles" class="row">
+          <div class="col-50 text-right small-text">
+            {{saldoMoneda(disponible.credito, disponible.moneda)}}
+          </div>
+        </div>
+-->
+      </ion-item>
+    </div>
+  </ion-content>
+  <div class="bar bar-subfooter">
+    <div class="button-bar bar-positive bar-full">
+      <a class="button icon ion-cash" nav-clear menu-close href="#/app/pagos">
+        Pague
+      </a>
+      <a class="button icon ion-arrow-swap" nav-clear menu-close href="#/app/transferencias">
+        Transfiera
+      </a>
+      <a class="button icon ion-loop"  nav-clear menu-close href="#/app/recargas">
+        Recargue
+      </a>
+
+    </div>
+  </div>
+</ion-view>

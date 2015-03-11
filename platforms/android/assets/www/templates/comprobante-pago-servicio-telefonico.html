@@ -1,0 +1,83 @@
+<ion-view title="Comprobante Pago">
+  <ion-content>
+    <div class="list list-inset">
+      <div class="item item-divider">
+        Pago de Servicio Confirmado
+      </div>
+      <div class="item row">
+        <div class="col small-text">Institución</div>
+        <div class="col small-text">ICE TELECOMUNICACIONES</div>
+      </div>
+      <div class="item row">
+        <div class="col small-text">No. Teléfono</div>
+        <div class="col small-text">88198987</div>
+      </div>
+      <div class="item row">
+        <div class="col small-text">Mes al Cobro</div>
+        <div class="col small-text">Enero 2015</div>
+      </div>
+      <div class="item row">
+        <div class="col small-text">Monto</div>
+        <div class="col small-text">{{14060 | currency:"¢"}}</div>
+      </div>
+      <div class="item row">
+        <div class="col small-text">A nombre de</div>
+        <div class="col small-text">Pravia Jacamo Carlos</div>
+      </div>
+
+      <div class="item row">
+        <div class="col small-text">Pagado por</div>
+        <div class="col small-text">Pravia Jacamo Carlos</div>
+      </div>
+      <div class="item row">
+        <div class="col small-text">Comprobante</div>
+        <div class="col small-text">14062473</div>
+      </div>
+      <div class="item row">
+        <div class="col small-text">Cuenta debitada</div>
+        <div class="col small-text">10528396</div>
+      </div>
+      <div class="item row">
+        <div class="col small-text">No. Factura</div>
+        <div class="col small-text">201501</div>
+      </div>
+    </div>
+    <div class="list list-inset">
+      <div class="item item-divider">
+        Desgloce del Pago
+      </div>
+      <div class="item row">
+        <div class="col small-text">Tarifa básica</div>
+        <div class="col small-text text-right">{{5236.40 | currency:"¢"}}</div>
+      </div>
+      <div class="item row">
+        <div class="col small-text">Excedente</div>
+        <div class="col small-text text-right">{{3379.50 | currency:"¢"}}</div>
+      </div>
+      <div class="item row">
+        <div class="col small-text">Cargos fijos</div>
+        <div class="col small-text text-right">{{3484.85 | currency:"¢"}}</div>
+      </div>
+      <div class="item row">
+        <div class="col small-text">Otros cargos</div>
+        <div class="col small-text text-right">{{269.55 | currency:"¢"}}</div>
+      </div>
+      <div class="item row">
+        <div class="col small-text">911</div>
+        <div class="col small-text text-right">{{92.75 | currency:"¢"}}</div>
+      </div>
+      <div class="item row">
+        <div class="col small-text">Impuesto de ventas</div>
+        <div class="col small-text text-right">{{1596.95 | currency:"¢"}}</div>
+      </div>
+      <div class="item row">
+        <div class="col">TOTAL</div>
+        <div class="col text-right">{{14060 | currency:"¢"}}</div>
+      </div>
+    </div>
+    <a class="item item-icon-right item-borderless" nav-clear menu-close href="/#/app/cuentas">
+      <li class="icon ion-chevron-right balanced"></li>
+      Saldo en Cuentas<br>
+    </a>
+  </ion-content>
+</ion-view>

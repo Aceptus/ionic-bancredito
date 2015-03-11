@@ -1,0 +1,39 @@
+<ion-view title="Pago ICETEL">
+  <ion-content>
+    <div class="list list-inset">
+      <div class="item item-divider">
+        Pago de Servicio
+      </div>
+      <div class="item row">
+        <div class="col small-text">No. Teléfono</div>
+        <div class="col small-text">88198987</div>
+      </div>
+      <div class="item row">
+        <div class="col small-text">Mes al Cobro</div>
+        <div class="col small-text">Enero 2015</div>
+      </div>
+      <div class="item row">
+        <div class="col small-text">Monto</div>
+        <div class="col small-text">{{14060 | currency:"¢"}}</div>
+      </div>
+      <div class="item row">
+        <div class="col small-text">Nombre</div>
+        <div class="col small-text">Pravia Jacamo Carlos</div>
+      </div>
+
+      <div class="item item-divider">
+        Indique la cuenta a debitar
+      </div>
+      <label class="item item-input item-select">
+        <div class="input-label">
+          Cuenta
+        </div>
+        <select ng-model="origen" ng-options="origen.id + ' -' + origen.desc for origen in misCuentas">
+          <option value="">(seleccione cuenta origen)</option>
+        </select>
+      </label>
+
+      <a class="button button-block button-energized icon-right ion-chevron-right" nav-clear menu-close href="#/app/comprobante-pago-servicio-telefonico/88198987">Realice el Pago</a>
+    </div>
+  </ion-content>
+</ion-view>

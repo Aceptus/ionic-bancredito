@@ -1,0 +1,29 @@
+<ion-view title="Consulta ICETEL">
+  <ion-content>
+    <div class="list list-inset">
+      <div class="item item-divider">
+        Indique el Número Telefónico
+      </div>
+
+      <label class="item item-input">
+        <span class="input-label">Teléfono</span>
+        <input type="text" ng-model="servicio.nis" placeholder="No digite guiones ni espacios">
+      </label>
+
+      <label class="item item-input item-select item-stacked-label">
+        <div class="input-label">
+          Favorito
+        </div>
+        <select>
+          <option value="">(seleccione un recibo)</option>
+          <option value="88198987">88198987 - Carlos Pravia Jácamo</option>
+          <option value="88875906">88875906 - Theodore Hope</option>
+        </select>
+      </label>
+
+
+
+      <a class="button button-block button-energized icon-right ion-chevron-right" type="submit" href="#/app/pago-servicio-telefonico/:88198987">Continúe</a>
+    </div>
+  </ion-content>
+</ion-view>

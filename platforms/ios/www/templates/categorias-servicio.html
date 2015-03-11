@@ -1,0 +1,13 @@
+<ion-view title="Categorías de Servicio">
+  <ion-content>
+    <div class="list">
+
+      <ion-item ng-repeat="categoria in categoriasServicios" class="item-icon-right" href="#/app/pago-servicios/{{servicio.id}}">
+        <i class="icon ion-chevron-right balanced"></i>
+        <h2>{{categoria.name}}</h2>
+      </ion-item>
+
+
+    </div>
+  </ion-content>
+</ion-view>
