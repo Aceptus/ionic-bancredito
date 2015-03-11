@@ -1,0 +1,86 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'node', '/usr/local/bin/npm', 'install', 'ngCordova' ]
+2 info using npm@1.4.28
+3 info using node@v0.10.35
+4 warn package.json ionic-bancredito@1.0.0 No repository field.
+5 warn package.json ionic-bancredito@1.0.0 No README data
+6 verbose readDependencies using package.json deps
+7 verbose cache add [ 'ngCordova', null ]
+8 verbose cache add name=undefined spec="ngCordova" args=["ngCordova",null]
+9 verbose parsed url { protocol: null,
+9 verbose parsed url   slashes: null,
+9 verbose parsed url   auth: null,
+9 verbose parsed url   host: null,
+9 verbose parsed url   port: null,
+9 verbose parsed url   hostname: null,
+9 verbose parsed url   hash: null,
+9 verbose parsed url   search: null,
+9 verbose parsed url   query: null,
+9 verbose parsed url   pathname: 'ngCordova',
+9 verbose parsed url   path: 'ngCordova',
+9 verbose parsed url   href: 'ngCordova' }
+10 silly lockFile c4cc40e6-ngCordova ngCordova
+11 verbose lock ngCordova /Users/pra/.npm/c4cc40e6-ngCordova.lock
+12 silly lockFile c4cc40e6-ngCordova ngCordova
+13 silly lockFile c4cc40e6-ngCordova ngCordova
+14 verbose addNamed [ 'ngCordova', '' ]
+15 verbose addNamed [ null, '*' ]
+16 silly lockFile e8f61dac-ngCordova ngCordova@
+17 verbose lock ngCordova@ /Users/pra/.npm/e8f61dac-ngCordova.lock
+18 silly addNameRange { name: 'ngCordova', range: '*', hasData: false }
+19 verbose request where is /ngCordova
+20 verbose request registry https://registry.npmjs.org/
+21 verbose request id dc60b098111a5111
+22 verbose url raw /ngCordova
+23 verbose url resolving [ 'https://registry.npmjs.org/', './ngCordova' ]
+24 verbose url resolved https://registry.npmjs.org/ngCordova
+25 verbose request where is https://registry.npmjs.org/ngCordova
+26 info trying registry request attempt 1 at 16:53:39
+27 http GET https://registry.npmjs.org/ngCordova
+28 http 404 https://registry.npmjs.org/ngCordova
+29 verbose headers { date: 'Thu, 12 Feb 2015 22:53:40 GMT',
+29 verbose headers   server: 'CouchDB/1.6.1 (Erlang OTP/R14B04)',
+29 verbose headers   'content-type': 'application/json',
+29 verbose headers   'cache-control': 'max-age=0',
+29 verbose headers   'content-length': '52',
+29 verbose headers   'accept-ranges': 'bytes',
+29 verbose headers   via: '1.1 varnish',
+29 verbose headers   age: '0',
+29 verbose headers   'x-served-by': 'cache-atl6229-ATL',
+29 verbose headers   'x-cache': 'MISS',
+29 verbose headers   'x-cache-hits': '0',
+29 verbose headers   'x-timer': 'S1423781620.592582,VS0,VE113',
+29 verbose headers   'keep-alive': 'timeout=10, max=50',
+29 verbose headers   connection: 'Keep-Alive' }
+30 silly registry.get cb [ 404,
+30 silly registry.get   { date: 'Thu, 12 Feb 2015 22:53:40 GMT',
+30 silly registry.get     server: 'CouchDB/1.6.1 (Erlang OTP/R14B04)',
+30 silly registry.get     'content-type': 'application/json',
+30 silly registry.get     'cache-control': 'max-age=0',
+30 silly registry.get     'content-length': '52',
+30 silly registry.get     'accept-ranges': 'bytes',
+30 silly registry.get     via: '1.1 varnish',
+30 silly registry.get     age: '0',
+30 silly registry.get     'x-served-by': 'cache-atl6229-ATL',
+30 silly registry.get     'x-cache': 'MISS',
+30 silly registry.get     'x-cache-hits': '0',
+30 silly registry.get     'x-timer': 'S1423781620.592582,VS0,VE113',
+30 silly registry.get     'keep-alive': 'timeout=10, max=50',
+30 silly registry.get     connection: 'Keep-Alive' } ]
+31 silly lockFile e8f61dac-ngCordova ngCordova@
+32 silly lockFile e8f61dac-ngCordova ngCordova@
+33 error 404 404 Not Found: ngCordova
+33 error 404
+33 error 404 'ngCordova' is not in the npm registry.
+33 error 404 You should bug the author to publish it
+33 error 404 It was specified as a dependency of 'ionic-bancredito'
+33 error 404
+33 error 404 Note that you can also install from a
+33 error 404 tarball, folder, or http url, or git url.
+34 error System Darwin 14.0.0
+35 error command "node" "/usr/local/bin/npm" "install" "ngCordova"
+36 error cwd /Applications/MAMP/htdocs/ionic-bancredito
+37 error node -v v0.10.35
+38 error npm -v 1.4.28
+39 error code E404
+40 verbose exit [ 1, true ]
