@@ -1,4 +1,19 @@
 {
   "name": "ionic-bancredito",
-  "app_id": ""
+  "app_id": "03368a21",
+  "gulpStartupTasks": [
+    "sass",
+    "watch"
+  ],
+  "watchPatterns": [
+    "www/**/*",
+    "!www/lib/**/*"
+  ],
+  "browsers": [
+    {
+      "platform": "android",
+      "browser": "crosswalk",
+      "version": "8.37.189.14"
+    }
+  ]
 }
