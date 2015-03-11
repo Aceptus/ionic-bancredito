@@ -23,7 +23,7 @@
           Monedero Electrónico
         </div>
 
-        <ion-item ng-show="!monederos.length" ng-repeat="monedero in monederos" class="item-saldo item-icon-right" href="#/app/monedero/{{monedero.id}}">
+        <ion-item ng-show="monederos.length" ng-repeat="monedero in monederos" class="item-saldo item-icon-right" href="#/app/monedero/{{monedero.id}}">
           <i class="icon ion-chevron-right balanced"></i>
           <h3># {{monedero.id}} - <span class="positive">{{monedero.alias}}</span></h3>
           <div class="col-50 text-right">
@@ -31,7 +31,7 @@
           </div>
         </ion-item>
 
-        <div ng-show="monederos.length" class="item">
+        <div ng-show="!monederos.length" class="item">
         <div class="col">
           <p>¿No cuenta con un monedero en este momento?</p>
           <a class="button button-block button-energized icon-right ion-chevron-right" href="#/app/purses">Registre un Monedero</a>

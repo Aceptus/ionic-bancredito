@@ -1,4 +1,4 @@
-/* Empty. Add your own CSS if you like */
+/* Custom Bancredito Styles */
 .small-text {
 	font-size: 0.9em;
 }
@@ -15,4 +15,7 @@
 }
 .movimientos .item{
 	padding: 0 16px;
+}
+.bar-subfooter .button-bar > .button{
+	padding-left: 10px;
 }

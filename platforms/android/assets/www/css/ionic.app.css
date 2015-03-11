@@ -7053,3 +7053,7 @@ a.button {
 
 .bar-subfooter {
   bottom: 24px; }
+
+.bar-subfooter .button-bar > .button{
+	padding-left: 10px;
+}
