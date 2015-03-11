@@ -1,0 +1,36 @@
+<ion-view title="Registro de Monedero">
+  <ion-content>
+  	<form ng-submit="registerPurse()">
+  		<div class="list list-inset">
+
+
+        <label class="item item-input item-select">
+	        <div class="input-label">
+	          Proveedor
+	        </div>
+					<select ng-model="serviceProvider" ng-options="provider.name for provider in serviceProvider track by provider.value">
+	          <option value="">(seleccione el proveedor)</option>
+	        </select>
+	      </label>
+      	<label class="item item-input">
+          <span class="input-label">Teléfono</span>
+          <input type="text" ng-model="tel" placeholder="Formato: 88887777">
+        </label>
+
+        <label class="item item-input">
+          <span class="input-label">Usuario</span>
+          <input type="password" ng-model="usuario" placeholder="??????">
+        </label>
+				<label class="item item-input">
+          <span class="input-label">Correo</span>
+          <input type="password" ng-model="correo" placeholder="correo@dominio.com">
+        </label>
+
+        <label class="item">
+          <button class="button button-block button-energized icon-right ion-chevron-right" type="submit">Continúe</button>
+        </label>
+
+  	</form>
+  </ion-content>
+  <div ng-include="footer.html"></div>
+</ion-view>

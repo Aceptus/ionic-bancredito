@@ -1,0 +1,38 @@
+<ion-view title="Configure Recarga Automática">
+  <ion-content>
+  	<form ng-submit="automaticRecharge()">
+  		<div class="list list-inset">
+
+				<!-- Seleccione el Origen -->
+	      <label class="item item-input item-select">
+	        <div class="input-label">
+	          Cuenta
+	        </div>
+	        <select ng-model="account" ng-options="account.id + ' -' + account.desc for account in getAccounts">
+	          <option value="">(seleccione cuenta)</option>
+	        </select>
+	      </label>
+
+				<label class="item item-input">
+          <span class="input-label">Monto Mínimo</span>
+          <input type="text" ng-model="minimunBalance" placeholder="* Mínimo para recarga">
+        </label>
+				<label class="item">
+          <span class="smaller-text item-text-wrap">* Cuando su monedero llegue a este monto, se llevará a cabo la recarga automática.</span>
+        </label>
+
+				<label class="item item-input">
+          <span class="input-label">Monto Recarga</span>
+          <input type="text" ng-model="amountRecharge" placeholder="Monto a recargar">
+        </label>
+
+
+        <label class="item">
+          <button class="button button-block button-energized icon-right ion-chevron-right" type="submit">Confirme</button>
+        </label>
+
+	    </div>
+  	</form>
+  </ion-content>
+  <div ng-include="footer.html"></div>
+</ion-view>

@@ -1,9 +1,9 @@
 <ion-view title="Detalle del Monedero">
   <ion-content>
-    <div class="list list-inset">
 
+    <div class="list list-inset">
       <div class="item item-divider">
-        Monedero 50688198987
+        Monedero: <span>+50688198987</span>
       </div>
       <div class="item row small-text">
         <div class="col"><h2>Saldo Disponible</h2></div>
@@ -20,6 +20,20 @@
       <div class="item row small-text">
         <div class="col">Total Permitido de Retiro diario</div>
         <div class="col text-right">{{saldoMoneda(15000,'colones')}}</div>
+      </div>
+    </div>
+
+    <div class="list list-inset">
+      <div class="item item-divider">
+        Recarga automática
+      </div>
+      <div class="item row small-text">
+        <div class="col">Balance mínimo</div>
+        <div class="col text-right">{{saldoMoneda(5000,'colones')}}</div>
+      </div>
+      <div class="item row small-text">
+        <div class="col">Monto recarga</div>
+        <div class="col text-right">{{saldoMoneda(20000,'colones')}}</div>
       </div>
     </div>
 

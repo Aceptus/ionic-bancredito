@@ -3,7 +3,13 @@
 // angular.module is a global place for creating, registering and retrieving Angular modules
 // 'starter' is the name of this angular module example (also set in a <body> attribute in index.html)
 // the 2nd parameter is an array of 'requires'
-angular.module('bancaApp', ['ionic','bancaApp.controllers'])
+angular.module('bancaApp', ['ionic',
+                            'bancaApp.controllers',
+                            'bancaApp.accountController',
+                            'bancaApp.purseController',
+                            'bancaApp.messageController',
+                            'bancaApp.profileService'
+                            ])
 
 .run(function($ionicPlatform) {
   $ionicPlatform.ready(function() {
@@ -59,8 +65,7 @@ angular.module('bancaApp', ['ionic','bancaApp.controllers'])
     url: "/cuentas",
     views: {
       'menuContent':{
-        templateUrl: "templates/cuentas.html",
-        controller:"CuentasController"
+        templateUrl: "templates/cuentas.html"
       }
     }
   })
@@ -70,7 +75,7 @@ angular.module('bancaApp', ['ionic','bancaApp.controllers'])
     views: {
       'menuContent':{
         templateUrl: "templates/tarjetas.html",
-        controller:"CuentasController"
+        controller:"AccountController"
       }
     }
   })
@@ -80,7 +85,47 @@ angular.module('bancaApp', ['ionic','bancaApp.controllers'])
     views: {
       'menuContent':{
         templateUrl: "templates/detalle-cuenta.html",
-        controller:"CuentasController"
+        controller:"AccountController"
+      }
+    }
+  })
+
+  .state('app.purses', {
+    url: "/purses",
+    views: {
+      'menuContent':{
+        templateUrl: "templates/register-purse.html",
+        controller:"PurseController"
+      }
+    }
+  })
+
+  .state('app.pinConfirmation', {
+    url: "/pinconfirmation",
+    views: {
+      'menuContent':{
+        templateUrl: "templates/pin-confirmation.html",
+        controller:"PurseController"
+      }
+    }
+  })
+
+  .state('app.pinConfirmed', {
+    url: "/pinconfirmed",
+    views: {
+      'menuContent':{
+        templateUrl: "templates/pin-confirmed.html",
+        controller:"PurseController"
+      }
+    }
+  })
+
+  .state('app.configAutomaticRecharge', {
+    url: "/configautomaticrecharge",
+    views: {
+      'menuContent':{
+        templateUrl: "templates/config-automatic-recharge.html",
+        controller:"PurseController"
       }
     }
   })
@@ -90,7 +135,7 @@ angular.module('bancaApp', ['ionic','bancaApp.controllers'])
     views: {
       'menuContent':{
         templateUrl: "templates/detalle-movimientos.html",
-        controller:"CuentasController"
+        controller:"AccountController"
       }
     }
   })
@@ -100,7 +145,7 @@ angular.module('bancaApp', ['ionic','bancaApp.controllers'])
     views: {
       'menuContent':{
         templateUrl: "templates/detalle-tarjeta.html",
-        controller:"CuentasController"
+        controller:"AccountController"
       }
     }
   })
@@ -110,7 +155,7 @@ angular.module('bancaApp', ['ionic','bancaApp.controllers'])
     views: {
       'menuContent':{
         templateUrl: "templates/detalle-monedero.html",
-        controller:"CuentasController"
+        controller:"AccountController"
       }
     }
   })
@@ -120,7 +165,7 @@ angular.module('bancaApp', ['ionic','bancaApp.controllers'])
     views: {
       'menuContent':{
         templateUrl: "templates/transferencias.html",
-        controller:"CuentasController"
+        controller:"AccountController"
       }
     }
   })
@@ -192,7 +237,7 @@ angular.module('bancaApp', ['ionic','bancaApp.controllers'])
     views: {
       'menuContent':{
         templateUrl: "templates/pago-servicio-telefonico.html",
-        controller:"CuentasController"
+        controller:"AccountController"
       }
     }
   })
@@ -203,7 +248,17 @@ angular.module('bancaApp', ['ionic','bancaApp.controllers'])
     views: {
       'menuContent':{
         templateUrl: "templates/comprobante-pago-servicio-telefonico.html",
-        controller:"CuentasController"
+        controller:"AccountController"
+      }
+    }
+  })
+
+  .state('app.transactionCompleted', {
+    url: "/transactioncompleted/:controllerName",
+    views: {
+      'menuContent':{
+        templateUrl: "templates/transaction-completed.html",
+        controller:"MessageController"
       }
     }
   })

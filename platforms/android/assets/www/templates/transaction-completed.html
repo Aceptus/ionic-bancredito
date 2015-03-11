@@ -1,0 +1,29 @@
+<ion-view title="Transacción Exitosa">
+
+  <ion-content ng-controller="MessageController">
+    <div ng-controller="controllerName">
+
+			<div class="item item-divider row">
+			Transacción realizada con {{successMessage}}!
+      </div>
+
+      <div class="item item-divider row">
+        <div class="col">Comprobante</div>
+        <div class="col">14061654</div>
+      </div>
+
+      <div class="item row">
+        <div class="col small-text">Fecha y Hora</div>
+        <div class="col smaller-text">02 feb 2015 08:10:32 am</div>
+      </div>
+
+
+        <div class="item">
+          <a class="button button-block button-energized icon-right ion-chevron-right" href="#/app/cuentas">Finalice</a>
+        </div>
+
+	    </div>
+    </div>
+  </ion-content>
+  <div ng-include="footer.html"></div>
+</ion-view>
